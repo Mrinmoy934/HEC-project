@@ -1,0 +1,2 @@
+[TELEGRAM ERROR] Failed to send: {"ok":false,"error_code":400,"description":"Bad Request: chat not found"}
+2026-04-01 01:36:01,216 - WARNING - HIGH RISK ALERT SENT: Elephant charging detected at Zone A (Test)

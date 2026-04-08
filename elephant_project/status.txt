@@ -1,0 +1,988 @@
+On branch main
+Changes not staged for commit:
+  (use "git add/rm <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	deleted:    docs/android_api_example.md
+	deleted:    docs/deployment_guide.md
+	deleted:    elephant_dataset/behaviour/aggressive/2005-tusker-musth-crop.jpg
+	deleted:    elephant_dataset/behaviour/aggressive/P9w50mw0NhyRTVUj76KGcTnXic5UDtCEp8m41WKh5NCRclXO4N5t4baa1rINfmkcM89PgapoRCUPxiH1X5TqCoE6jq2iKzViZykVW-QMuq9sfbmWhXQFLL_IK9Gd4rrEaUQ4tFrDuZV77eptnEmwGA.jpg
+	deleted:    elephant_dataset/behaviour/aggressive/istockphoto-1317374920-640_adpp_is.mp4
+	deleted:    elephant_dataset/behaviour/aggressive/istockphoto-1448824435-640_adpp_is.mp4
+	deleted:    elephant_dataset/behaviour/aggressive/istockphoto-1448832188-640_adpp_is.mp4
+	deleted:    elephant_dataset/behaviour/aggressive/istockphoto-1852094589-640_adpp_is.mp4
+	deleted:    elephant_dataset/behaviour/aggressive/istockphoto-1920313766-640_adpp_is.mp4
+	deleted:    elephant_dataset/behaviour/aggressive/istockphoto-1953741814-640_adpp_is.mp4
+	deleted:    elephant_dataset/behaviour/aggressive/istockphoto-2214811691-640_adpp_is.mp4
+	deleted:    elephant_dataset/behaviour/aggressive/istockphoto-514895350-640_adpp_is.mp4
+	deleted:    elephant_dataset/behaviour/aggressive/istockphoto-515683347-640_adpp_is.mp4
+	deleted:    elephant_dataset/behaviour/aggressive/istockphoto-584512200-640_adpp_is.mp4
+	deleted:    elephant_dataset/behaviour/aggressive/istockphoto-826844152-640_adpp_is.mp4
+	deleted:    elephant_dataset/behaviour/aggressive/istockphoto-827125892-640_adpp_is.mp4
+	deleted:    elephant_dataset/behaviour/aggressive/shutterstock_2022593135.jpg
+	deleted:    elephant_dataset/behaviour/aggressive/sized_The_Raw_Spirit_elephant.jpg
+	deleted:    elephant_dataset/behaviour/alert/istockphoto-1464936159-640_adpp_is.mp4
+	deleted:    elephant_dataset/behaviour/alert/istockphoto-1464936264-640_adpp_is.mp4
+	deleted:    elephant_dataset/behaviour/alert/istockphoto-1484108442-640_adpp_is.mp4
+	deleted:    elephant_dataset/behaviour/alert/istockphoto-1629647604-640_adpp_is.mp4
+	deleted:    elephant_dataset/behaviour/alert/istockphoto-1735244079-640_adpp_is.mp4
+	deleted:    elephant_dataset/behaviour/alert/istockphoto-1953741814-640_adpp_is.mp4
+	deleted:    elephant_dataset/behaviour/alert/istockphoto-2166552978-640_adpp_is.mp4
+	deleted:    elephant_dataset/behaviour/alert/istockphoto-2209344494-640_adpp_is.mp4
+	deleted:    elephant_dataset/behaviour/alert/istockphoto-2224721316-640_adpp_is.mp4
+	deleted:    elephant_dataset/behaviour/alert/istockphoto-472533815-640_adpp_is.mp4
+	deleted:    elephant_dataset/behaviour/alert/istockphoto-473270665-640_adpp_is.mp4
+	deleted:    elephant_dataset/behaviour/alert/llFEsIHZSYvQcb9FvJnOmP72hVKYK0k8c1mjqiTaaTe0WoN9W_Om5zKjWZACxIuDZMBq6k2pQx1x2zy-_7KW7zVAtuLUAKPCngCsN4EAv28I4S7hiQ3RIbynGWTEyvCC6CpAKw6Od2kWPDfnDE-oJA.jpg
+	deleted:    elephant_dataset/behaviour/calm/_118839829_elephantssleep2.jpg
+	deleted:    elephant_dataset/behaviour/calm/istockphoto-1316395804-640_adpp_is.mp4
+	deleted:    elephant_dataset/behaviour/calm/istockphoto-1316408738-640_adpp_is.mp4
+	deleted:    elephant_dataset/behaviour/calm/istockphoto-1316642897-640_adpp_is.mp4
+	deleted:    elephant_dataset/behaviour/calm/istockphoto-1385924074-640_adpp_is.mp4
+	deleted:    elephant_dataset/behaviour/calm/istockphoto-1408271813-640_adpp_is.mp4
+	deleted:    elephant_dataset/behaviour/calm/istockphoto-1818072715-640_adpp_is.mp4
+	deleted:    elephant_dataset/behaviour/calm/istockphoto-1818078957-640_adpp_is.mp4
+	deleted:    elephant_dataset/behaviour/calm/istockphoto-1818087117-640_adpp_is.mp4
+	deleted:    elephant_dataset/behaviour/calm/istockphoto-1818121258-640_adpp_is.mp4
+	deleted:    elephant_dataset/behaviour/calm/istockphoto-2122014989-640_adpp_is.mp4
+	deleted:    elephant_dataset/behaviour/calm/istockphoto-2159383748-640_adpp_is.mp4
+	deleted:    elephant_dataset/behaviour/calm/istockphoto-2187790415-640_adpp_is.mp4
+	deleted:    elephant_dataset/behaviour/calm/istockphoto-2187790588-640_adpp_is.mp4
+	deleted:    elephant_dataset/behaviour/calm/istockphoto-478455380-640_adpp_is.mp4
+	deleted:    elephant_dataset/behaviour/calm/rodho[iyonko.pdf
+	deleted:    elephant_dataset/behaviour/distress/istockphoto-1157963923-640_adpp_is.mp4
+	deleted:    elephant_dataset/behaviour/distress/istockphoto-1318181030-640_adpp_is.mp4
+	deleted:    elephant_dataset/behaviour/distress/istockphoto-1318181266-640_adpp_is.mp4
+	deleted:    elephant_dataset/behaviour/distress/istockphoto-1318181354-640_adpp_is.mp4
+	deleted:    elephant_dataset/behaviour/distress/istockphoto-1471330048-640_adpp_is.mp4
+	deleted:    elephant_dataset/behaviour/distress/istockphoto-1731185299-640_adpp_is.mp4
+	deleted:    elephant_dataset/behaviour/distress/istockphoto-1780774280-640_adpp_is.mp4
+	deleted:    elephant_dataset/behaviour/distress/istockphoto-2152012941-640_adpp_is.mp4
+	deleted:    elephant_dataset/behaviour/distress/istockphoto-2159882388-640_adpp_is.mp4
+	deleted:    elephant_dataset/behaviour/distress/istockphoto-2178273449-640_adpp_is.mp4
+	deleted:    elephant_dataset/behaviour/distress/istockphoto-2182647866-640_adpp_is.mp4
+	deleted:    elephant_dataset/behaviour/distress/istockphoto-2183008161-640_adpp_is.mp4
+	deleted:    elephant_dataset/behaviour/distress/istockphoto-2209344494-640_adpp_is.mp4
+	deleted:    elephant_dataset/behaviour/distress/istockphoto-2246304369-640_adpp_is.mp4
+	deleted:    elephant_dataset/behaviour/feeding/123027-726548100_tiny.mp4
+	deleted:    elephant_dataset/behaviour/feeding/126211-735676461_tiny.mp4
+	deleted:    elephant_dataset/behaviour/feeding/istockphoto-1212744078-640_adpp_is.mp4
+	deleted:    elephant_dataset/behaviour/feeding/istockphoto-1212745814-640_adpp_is.mp4
+	deleted:    elephant_dataset/behaviour/feeding/istockphoto-1431645981-640_adpp_is.mp4
+	deleted:    elephant_dataset/behaviour/feeding/istockphoto-1472050290-640_adpp_is.mp4
+	deleted:    elephant_dataset/behaviour/feeding/istockphoto-1708721191-640_adpp_is (1).mp4
+	deleted:    elephant_dataset/behaviour/feeding/istockphoto-1708721191-640_adpp_is.mp4
+	deleted:    elephant_dataset/behaviour/feeding/istockphoto-1872271416-640_adpp_is.mp4
+	deleted:    elephant_dataset/behaviour/feeding/istockphoto-2181590376-640_adpp_is.mp4
+	deleted:    elephant_dataset/behaviour/feeding/istockphoto-995386566-640_adpp_is.mp4
+	deleted:    elephant_dataset/behaviour/feeding/istockphoto-998824588-640_adpp_is.mp4
+	deleted:    elephant_dataset/behaviour/human elephant conflict/122071451.avif
+	deleted:    elephant_dataset/behaviour/human elephant conflict/123148527.avif
+	deleted:    elephant_dataset/behaviour/human elephant conflict/125416223.avif
+	deleted:    elephant_dataset/behaviour/human elephant conflict/20180208_Mag_ElephantChasingPeople.jpg
+	deleted:    elephant_dataset/behaviour/human elephant conflict/20250805_215150.webp
+	deleted:    elephant_dataset/behaviour/human elephant conflict/21088008.jpg
+	deleted:    elephant_dataset/behaviour/human elephant conflict/40_143_1_16vsp19_1602chn_42.avif
+	deleted:    elephant_dataset/behaviour/human elephant conflict/A-typical-human-elephant-conflict-scene-from-India.png
+	deleted:    elephant_dataset/behaviour/human elephant conflict/DJI_20240727174549_0020_V-scaled.jpg
+	deleted:    elephant_dataset/behaviour/human elephant conflict/QtP-12Ey68Dbry1aUEnnleTev38TarIaPHsdduMg_whQhkRrO6mWjGfzU-7hFPIewKWMFOx5ErnoRiQzZ-ogugda8WXRuNn536Ync_kbAkGIR473el7zOPgsW0LteHb8DIi-TSR-doU9I9Va-JkBxQ.jpg
+	deleted:    elephant_dataset/behaviour/human elephant conflict/TNIE_import_2021_9_30_original_Jumbo.avif
+	deleted:    elephant_dataset/behaviour/human elephant conflict/Top-Fence-breaking-elephant-in-Lewa-Wildlife-Conservancy-attempting-to-snap-two-strands.jpg
+	deleted:    elephant_dataset/behaviour/human elephant conflict/down-to-earth_import_dte_userfiles_images_haathi-1.avif
+	deleted:    elephant_dataset/behaviour/human elephant conflict/elephant_india.jpg
+	deleted:    elephant_dataset/behaviour/human elephant conflict/hq720.jpg
+	deleted:    elephant_dataset/behaviour/human elephant conflict/oe3e3g3g_elephant_625x300_06_December_22.jpg
+	deleted:    elephant_dataset/behaviour/migration/istockphoto-1151477994-640_adpp_is.mp4
+	deleted:    elephant_dataset/behaviour/migration/istockphoto-1319523446-640_adpp_is.mp4
+	deleted:    elephant_dataset/behaviour/migration/istockphoto-1365127900-640_adpp_is.mp4
+	deleted:    elephant_dataset/behaviour/migration/istockphoto-1466764699-640_adpp_is.mp4
+	deleted:    elephant_dataset/behaviour/migration/istockphoto-1478636018-640_adpp_is.mp4
+	deleted:    elephant_dataset/behaviour/migration/istockphoto-1478757212-640_adpp_is.mp4
+	deleted:    elephant_dataset/behaviour/migration/istockphoto-1868968238-640_adpp_is.mp4
+	deleted:    elephant_dataset/behaviour/migration/istockphoto-1972571841-640_adpp_is (1).mp4
+	deleted:    elephant_dataset/behaviour/migration/istockphoto-1972571841-640_adpp_is.mp4
+	deleted:    elephant_dataset/behaviour/migration/istockphoto-2179703347-640_adpp_is.mp4
+	deleted:    elephant_dataset/behaviour/migration/istockphoto-2190855827-640_adpp_is.mp4
+	deleted:    elephant_dataset/behaviour/migration/istockphoto-2228870153-640_adpp_is.mp4
+	deleted:    elephant_dataset/behaviour/social interaction/istockphoto-1168962767-640_adpp_is.mp4
+	deleted:    elephant_dataset/behaviour/social interaction/istockphoto-1197303126-640_adpp_is.mp4
+	deleted:    elephant_dataset/behaviour/social interaction/istockphoto-1197306843-640_adpp_is.mp4
+	deleted:    elephant_dataset/behaviour/social interaction/istockphoto-1207252816-640_adpp_is.mp4
+	deleted:    elephant_dataset/behaviour/social interaction/istockphoto-1208137047-640_adpp_is.mp4
+	deleted:    elephant_dataset/behaviour/social interaction/istockphoto-1209033142-640_adpp_is.mp4
+	deleted:    elephant_dataset/behaviour/social interaction/istockphoto-1811833181-640_adpp_is.mp4
+	deleted:    elephant_dataset/behaviour/social interaction/istockphoto-1847022354-640_adpp_is.mp4
+	deleted:    elephant_dataset/behaviour/social interaction/istockphoto-1953742337-640_adpp_is.mp4
+	deleted:    elephant_dataset/behaviour/social interaction/istockphoto-2151448883-640_adpp_is.mp4
+	deleted:    elephant_dataset/behaviour/social interaction/istockphoto-2181113707-640_adpp_is.mp4
+	deleted:    elephant_dataset/behaviour/social interaction/istockphoto-477009312-640_adpp_is.mp4
+	deleted:    elephant_dataset/behaviour/social interaction/istockphoto-517038386-640_adpp_is.mp4
+	deleted:    elephant_dataset/behaviour/warning display/istockphoto-1196581561-640_adpp_is.mp4
+	deleted:    elephant_dataset/behaviour/warning display/istockphoto-1464731583-640_adpp_is.mp4
+	deleted:    elephant_dataset/behaviour/warning display/istockphoto-1920313766-640_adpp_is.mp4
+	deleted:    elephant_dataset/behaviour/warning display/istockphoto-2017373897-640_adpp_is.mp4
+	deleted:    elephant_dataset/behaviour/warning display/istockphoto-2116390683-640_adpp_is.mp4
+	deleted:    elephant_dataset/behaviour/warning display/istockphoto-2215080347-640_adpp_is (1).mp4
+	deleted:    elephant_dataset/behaviour/warning display/istockphoto-2215080347-640_adpp_is.mp4
+	deleted:    elephant_dataset/behaviour/warning display/istockphoto-2223487365-640_adpp_is.mp4
+	deleted:    elephant_dataset/behaviour/warning display/istockphoto-472529235-640_adpp_is.mp4
+	deleted:    elephant_dataset/behaviour/warning display/istockphoto-473042847-640_adpp_is.mp4
+	deleted:    elephant_dataset/behaviour/warning display/istockphoto-517853794-640_adpp_is.mp4
+	deleted:    elephant_dataset/posture/calf under mother/01036719.jpg
+	deleted:    elephant_dataset/posture/calf under mother/125603922.avif
+	deleted:    elephant_dataset/posture/calf under mother/1804812-elephants-huddle-calf-israel-rockets.webp
+	deleted:    elephant_dataset/posture/calf under mother/307970.jpg
+	deleted:    elephant_dataset/posture/calf under mother/4Phabeni-Lundi-suckle-scaled.jpg
+	deleted:    elephant_dataset/posture/calf under mother/7tW3qnicu5mZUVJSUGylr5-al1xUWVCSmqJbkpRnoJdeXJJYkpmsl5yfq5-Zm5ieWmxfaAuUsXL0S7F0Tw7yLwjNjfQoCzQMNS12Mc519jJPM84yzE_MNvSrqsjIzig1zQoz9_Kz0DU1SHcN1vVUKwYAT6slKg.jpg
+	deleted:    elephant_dataset/posture/calf under mother/HERD-Lundi.jpg
+	deleted:    elephant_dataset/posture/calf under mother/JQmBIHicu5mZUVJSUGylr5-al1xUWVCSmqJbkpRnoJdeXJJYkpmsl5yfq5-Zm5ieWmxfaAuUsXL0S7F0Tw7J8w8zKy13cSrJKawyCbU0qHJx8yv1rnJ0q_J2zqkK9CktyMqNcsx0cS3NcI4otQhUKwYAa4Umrw.jpg
+	deleted:    elephant_dataset/posture/calf under mother/NationalGeographic_1652827.avif
+	deleted:    elephant_dataset/posture/calf under mother/PRI210534845.jpg
+	deleted:    elephant_dataset/posture/calf under mother/TW35IXicu5mZUVJSUGylr5-al1xUWVCSmqJbkpRnoJdeXJJYkpmsl5yfq5-Zm5ieWmxfaAuUsXL0S7F0Tw4yzyvNtKhydi3OiQyPD3MqDUsyLzOoSswI9wjPTI-KMA5ziygz1c0oDjIKz3LL9ChWKwYAaRsmaQ.jpg
+	deleted:    elephant_dataset/posture/calf under mother/WR202509_ElephantCalfRescue_009_905988_reduced.jpg
+	deleted:    elephant_dataset/posture/calf under mother/WR202511_ChammaNewCalf_006_932505_reduced.jpg
+	deleted:    elephant_dataset/posture/calf under mother/Zaiya feeding 2.png
+	deleted:    elephant_dataset/posture/calf under mother/african-elephant-calf-follows-mom.jpg
+	deleted:    elephant_dataset/posture/calf under mother/asian-elephant-calf-mother.jpg
+	deleted:    elephant_dataset/posture/calf under mother/b4fa82_ab0c37d440534f7da22c3da5c273c0e2~mv2.avif
+	deleted:    elephant_dataset/posture/calf under mother/baby-elephant-napping.jpg
+	deleted:    elephant_dataset/posture/calf under mother/cq5dam.web.1280.1280.jpg
+	deleted:    elephant_dataset/posture/calf under mother/depositphotos_87769340-stock-photo-a-small-elephant-calf-is.jpg
+	deleted:    elephant_dataset/posture/calf under mother/elephant-herd-protecting-ring-.webp
+	deleted:    elephant_dataset/posture/calf under mother/gojevc38_baby-elephant-_625x300_03_January_24.png
+	deleted:    elephant_dataset/posture/calf under mother/hq720.jpg
+	deleted:    elephant_dataset/posture/calf under mother/indian-asian-elephant-calf-sheltering-adult-1313787.jpg.webp
+	deleted:    elephant_dataset/posture/calf under mother/ipiccy_image-36-1_6316ed69a03fc.webp
+	deleted:    elephant_dataset/posture/calf under mother/kefvucso_mother-elephant_295x200_05_September_22.webp
+	deleted:    elephant_dataset/posture/calf under mother/maxresdefault.jpg
+	deleted:    elephant_dataset/posture/calf under mother/oardefault.jpg
+	deleted:    elephant_dataset/posture/calf under mother/p0493gjd.jpg
+	deleted:    elephant_dataset/posture/calf under mother/repost-martinmeyer_wild-COin-5tAbHY+(1).webp
+	deleted:    elephant_dataset/posture/calf under mother/roi-elephant-01.avif
+	deleted:    elephant_dataset/posture/calf under mother/untitled-May-00028-2.jpg
+	deleted:    elephant_dataset/posture/calf under mother/ySAWKHicu5mVUVJSUGylr5-al1xUWVCSmqJbkpRnoJdeXJJYkpmsl5yfq5-Zm5ieWmxfaAuUsXL0S7F0Tw70skhzc3M0zku2zMkuM61KzbGoTMkpy_LKMzFOTzMyd0xLdHL2KvEpMnfLzkx1DSy0UCsGAH4EJks.jpg
+	deleted:    elephant_dataset/posture/charging/0000015b-cac0-dca4-ab5b-eadfa3c90000.avif
+	deleted:    elephant_dataset/posture/charging/163557_web.jpg
+	deleted:    elephant_dataset/posture/charging/2005-tusker-musth-crop.jpg
+	deleted:    elephant_dataset/posture/charging/662c94f6675da852008a3b4fa5e03f3c.jpg
+	deleted:    "elephant_dataset/posture/charging/A-headshake-is-a-very-effective-intimidation-tactic.-\302\251-Sally-Lucas.jpg"
+	deleted:    elephant_dataset/posture/charging/African_elephant_warning_raised_trunk.jpg
+	deleted:    elephant_dataset/posture/charging/Aggressive-Elephant_PSE.jpg
+	deleted:    "elephant_dataset/posture/charging/An-elephants-trunk-communicates-a-vast-amount-of-information-\302\251-Karen-Blackwood.jpg"
+	deleted:    elephant_dataset/posture/charging/Angry_elephant_ears.jpg
+	deleted:    elephant_dataset/posture/charging/Elephant Shot Placement.jpg
+	deleted:    elephant_dataset/posture/charging/Elephant-charging-our-car-1536x816.jpg
+	deleted:    "elephant_dataset/posture/charging/Lotha-Hoho-urges-urgent-action-on-rising-elephant\342\200\223human-conflict-in-Wokha-1024x559.webp"
+	deleted:    elephant_dataset/posture/charging/PRI_215989579.webp
+	deleted:    elephant_dataset/posture/charging/Q7A2026.jpg
+	deleted:    elephant_dataset/posture/charging/QENP-ellies-6-1024x762.jpg.webp
+	deleted:    elephant_dataset/posture/charging/Screenshot-2025-09-25-at-14.50.45.webp
+	deleted:    elephant_dataset/posture/charging/Standing-tall-Tim-Driman.jpg
+	deleted:    elephant_dataset/posture/charging/_RED6930-2-ext-edit-ext-edit-2_PSE.jpg
+	deleted:    elephant_dataset/posture/charging/ele+charge+blog.webp
+	deleted:    elephant_dataset/posture/charging/ele1.avif
+	deleted:    elephant_dataset/posture/charging/elephant-1-ht-gmh-251007_1759840708461_hpMain_16x9.avif
+	deleted:    elephant_dataset/posture/charging/elephant-charging.jpg
+	deleted:    elephant_dataset/posture/charging/elephant_india.jpg
+	deleted:    elephant_dataset/posture/charging/hq720.jpg
+	deleted:    elephant_dataset/posture/charging/hqdefault.jpg
+	deleted:    elephant_dataset/posture/charging/maxresdefault.jpg
+	deleted:    elephant_dataset/posture/charging/sddefault.jpg
+	deleted:    elephant_dataset/posture/charging/shutterstock_2022593135.jpg
+	deleted:    elephant_dataset/posture/drinking/060221_SP_elephant-suction_feat.webp
+	deleted:    elephant_dataset/posture/drinking/13787214-two-asia-elephant-drinking-water-in-tropical-forest.jpg
+	deleted:    elephant_dataset/posture/drinking/66160118-asian-elephant-or-asiatic-elephant-elephas-maximus-drink-water.jpg
+	deleted:    elephant_dataset/posture/drinking/800wm.jpg
+	deleted:    elephant_dataset/posture/drinking/Art-Of-Safari_Wallpaper_Sept2017_2880-x-1800.jpg
+	deleted:    elephant_dataset/posture/drinking/Baby_Elephants_Drinking_at_Waterhole_2019-07-23.jpg
+	deleted:    elephant_dataset/posture/drinking/african-elephant-calf-drinking-water.jpg
+	deleted:    elephant_dataset/posture/drinking/an-elephant-drinking.jpg
+	deleted:    elephant_dataset/posture/drinking/dSYuE6TESP9i9fJHUDKPXytrJFoz8o69tLh-u3yya7TA8nF0pLvXbDjLhn9WsTe6lb4l1jocApGq58vNIpcemrf7_FYXVqY8ASlkubuopVCOcrGjKD10zcu4FfgqYgvNXvhPh4kqIhQa8qynITefbQ.jpg
+	deleted:    elephant_dataset/posture/drinking/hq720.jpg
+	deleted:    elephant_dataset/posture/drinking/hq720_2.jpg
+	deleted:    elephant_dataset/posture/drinking/maxresdefault.jpg
+	deleted:    elephant_dataset/posture/dusting/00478181.jpg
+	deleted:    elephant_dataset/posture/dusting/01521732.jpg
+	deleted:    elephant_dataset/posture/dusting/01596036.jpg
+	deleted:    elephant_dataset/posture/dusting/01643046.jpg
+	deleted:    elephant_dataset/posture/dusting/01733954.jpg
+	deleted:    elephant_dataset/posture/dusting/10582791.avif
+	deleted:    elephant_dataset/posture/dusting/16387293976_55c4263564_b.jpg
+	deleted:    elephant_dataset/posture/dusting/18024003064_fd1f7afea7_b.jpg
+	deleted:    elephant_dataset/posture/dusting/1wgeSHicu5mVUVJSUGylr5-al1xUWVCSmqJbkpRnoJdeXJJYkpmsl5yfq5-Zm5ieWmxfaAuUsXL0S7F0Tw6uCPF09Ml0DfM0MHR2LjVJLA921C3MdnQqLfMqLQ8t8wiuyA7yDg9wC01JLEtLM_IqVCsGAHiyJo4.jpg
+	deleted:    elephant_dataset/posture/dusting/643b3a_3221da978c884434b2f75e7fbcf4b98b~mv2.avif
+	deleted:    elephant_dataset/posture/dusting/6b4c25ff785e437d848f77b9e63c7ed7.png
+	deleted:    elephant_dataset/posture/dusting/African-Elephant-in-cloud-of-dust.webp
+	deleted:    elephant_dataset/posture/dusting/Behavioural-activity-of-dust-bathing-and-bunching-by-the-elephants-It-can-also-be-seen.jpg
+	deleted:    elephant_dataset/posture/dusting/C-gVM7fXcAADZag.jpg
+	deleted:    elephant_dataset/posture/dusting/Craig+dusting+1.webp
+	deleted:    elephant_dataset/posture/dusting/Dust coat.jpg
+	deleted:    elephant_dataset/posture/dusting/Dust-Bath-Ritual.png
+	deleted:    elephant_dataset/posture/dusting/Z9410142.jpg
+	deleted:    elephant_dataset/posture/dusting/Z9410143.jpg
+	deleted:    elephant_dataset/posture/dusting/c0416613-800px-wm.jpg
+	deleted:    elephant_dataset/posture/dusting/c0551856-800px-wm.jpg
+	deleted:    elephant_dataset/posture/dusting/cDY1dyC_t0jL2KuLUWTuTS7_A_u_xjrB9mGbW11vqR_N22MZj7gLzUwmhW5F-v9d6uiHZxJWyEHGGYBCnEqlJ4NJ-_CZHJuEwZTXms3B5h63IEwYFuPV5Hsys1iY0Ko9PyzXvbkSiUwPLUb3vhmoFg.jpg
+	deleted:    elephant_dataset/posture/dusting/dusty+ele.webp
+	deleted:    elephant_dataset/posture/dusting/elephant-1_3424860b.webp
+	deleted:    elephant_dataset/posture/dusting/hq720.jpg
+	deleted:    elephant_dataset/posture/dusting/hqdefault.jpg
+	deleted:    elephant_dataset/posture/dusting/offset_724530.jpg
+	deleted:    elephant_dataset/posture/dusting/red-elephants-throwing-dust-themselves-footage-128943950_iconl.webp
+	deleted:    elephant_dataset/posture/dusting/showimg_hkl902_search.webp
+	deleted:    elephant_dataset/posture/dusting/z9410142-400px-wm.jpg
+	deleted:    elephant_dataset/posture/ear flapping/1-2.png
+	deleted:    elephant_dataset/posture/ear flapping/121286502.avif
+	deleted:    elephant_dataset/posture/ear flapping/121287423.avif
+	deleted:    elephant_dataset/posture/ear flapping/48870074273_aff48deda5_b.jpg
+	deleted:    elephant_dataset/posture/ear flapping/61GBUawUD5L._AC_UY350_.jpg
+	deleted:    elephant_dataset/posture/ear flapping/792237068-2b3763959926d18d55902f7cc530abdea136ecadf2a66b68e269e705cfbf162c-d.webp
+	deleted:    elephant_dataset/posture/ear flapping/8411878443_ff57eda1c2_b.jpg
+	deleted:    "elephant_dataset/posture/ear flapping/A-headshake-is-a-very-effective-intimidation-tactic.-\302\251-Sally-Lucas.jpg"
+	deleted:    elephant_dataset/posture/ear flapping/Angry_elephant_ears.jpg
+	deleted:    elephant_dataset/posture/ear flapping/Ear-spreading---Colin-Bell.jpg
+	deleted:    elephant_dataset/posture/ear flapping/Morphoanatomical-ear-differences-between-Asian-Elephas-maximus-and-African-Loxodonta.png
+	deleted:    elephant_dataset/posture/ear flapping/SAFARI-SELF-GUIDE-ELEPHANT.png
+	deleted:    elephant_dataset/posture/ear flapping/Screen-Shot-2025-04-14-at-95510-PM-1.webp
+	deleted:    elephant_dataset/posture/ear flapping/Why-Do-Elephants-Have-Big-Ears.png
+	deleted:    elephant_dataset/posture/ear flapping/c0545177-800px-wm.jpg
+	deleted:    elephant_dataset/posture/ear flapping/canvas-prints-huge-african-elephant-bull-with-it-s-ears-spread.jpg
+	deleted:    elephant_dataset/posture/ear flapping/earspreading_650w.jpg
+	deleted:    elephant_dataset/posture/ear flapping/elephant-100725-e7e0b00950264fbf97282406f2095325.jpg
+	deleted:    elephant_dataset/posture/ear flapping/img_3465.jpg
+	deleted:    elephant_dataset/posture/ear flapping/maxresdefault.jpg
+	deleted:    elephant_dataset/posture/ear flapping/npr.brightspotcdn.jpg
+	deleted:    elephant_dataset/posture/ear flapping/wild-african-elephant-flapping-ears-footage-255847869_iconl.webp
+	deleted:    elephant_dataset/posture/eating/1-elephant_foraging_mopane_tree.jpg
+	deleted:    elephant_dataset/posture/eating/11511591-An-elephant-eating-leaves-off-a-tree-Okavango-Delta-Botswana.jpg
+	deleted:    elephant_dataset/posture/eating/157283-004-0D1BDEC1.webp
+	deleted:    elephant_dataset/posture/eating/1_phuket-meet-feed-relax-with-elephant.jpg
+	deleted:    elephant_dataset/posture/eating/22-1024x682.jpg
+	deleted:    elephant_dataset/posture/eating/Asian_elephant_eating_-_melbourne_zoo.jpg
+	deleted:    elephant_dataset/posture/eating/COLOURBOX61550696.webp
+	deleted:    elephant_dataset/posture/eating/Elephant-Eating-With-Trunk.gif
+	deleted:    elephant_dataset/posture/eating/HERD-Lundi.jpg
+	deleted:    elephant_dataset/posture/eating/LC201907_ElephantHerd_001_355243_reduced.jpg
+	deleted:    elephant_dataset/posture/eating/O2Fcrnicu5mVUVJSUGylr5-al1xUWVCSmqJbkpRnoJdeXJJYkpmsl5yfq5-Zm5ieWmxfaAuUsXL0S7F0Tw5y9vCN9CuK96w0dfNM9zMyMvYOMHRONw4yMCoOK87Jjwr1KizJcvUIM40KLg3N940wUysGAGDYJZA.jpg
+	deleted:    elephant_dataset/posture/eating/Shresatha_Feature-Image.jpg
+	deleted:    elephant_dataset/posture/eating/african-elephant-eating-forest-scene-footage-112203387_iconl.webp
+	deleted:    elephant_dataset/posture/eating/animals-fall5d3a-1175-edit.jpg
+	deleted:    elephant_dataset/posture/eating/baby-elephants-are-being-fed-by-their-handlers-in-a-sanctuary-for-orphan-elephants.webp
+	deleted:    elephant_dataset/posture/eating/baby-elephat-feeding-1.jpg
+	deleted:    elephant_dataset/posture/eating/c0483588-800px-wm.jpg
+	deleted:    elephant_dataset/posture/eating/c0520859-800px-wm.jpg
+	deleted:    elephant_dataset/posture/eating/elephant-eating-02-786x500.jpg
+	deleted:    elephant_dataset/posture/eating/elephant-eating-resized.jpg
+	deleted:    elephant_dataset/posture/eating/elephant_eating_dirt.jpg
+	deleted:    elephant_dataset/posture/eating/elephant_lznp-r0102_med.jpg
+	deleted:    elephant_dataset/posture/eating/hq720.jpg
+	deleted:    elephant_dataset/posture/eating/maxresdefault.jpg
+	deleted:    elephant_dataset/posture/eating/npr.brightspotcdn.jpg
+	deleted:    elephant_dataset/posture/eating/photo-1556873890-a159073d3470.jpg
+	deleted:    elephant_dataset/posture/eating/ruth-smith.jpg
+	deleted:    elephant_dataset/posture/eating/sddefault.jpg
+	deleted:    elephant_dataset/posture/eating/what-do-elephants-eat-2-1-683x1024.jpg
+	deleted:    elephant_dataset/posture/eating/yum-yum-elephant-eating.jpg
+	deleted:    elephant_dataset/posture/group/0530-Pilanesbergelephants-Shannon.jpg
+	deleted:    elephant_dataset/posture/group/16IOFXicu5mVUVJSUGylr5-al1xUWVCSmqJbkpRnoJdeXJJYkpmsl5yfq5-Zm5ieWmxfaAuUsXL0S7F0Tw6O9wlP8y6sqDJyT3RLy3KuKM_JMXZy9oowdQq3MMkOL41KK4l3MnPJTK8MDjFxyfbJUisGAIqrJo0.jpg
+	deleted:    elephant_dataset/posture/group/776026_1ba02d63eef4415fbbc2914034aa89b5~mv2.avif
+	deleted:    elephant_dataset/posture/group/77b94bd08e3726d29c89977988b412bf.jpg
+	deleted:    elephant_dataset/posture/group/97f7d701c9a2f1f6c39fd36f5db82ce3.jpg
+	deleted:    elephant_dataset/posture/group/EleNew2.avif
+	deleted:    elephant_dataset/posture/group/Elephant-Circle.jpg
+	deleted:    elephant_dataset/posture/group/LUdrWnicu5mVUVJSUGylr5-al1xUWVCSmqJbkpRnoJdeXJJYkpmsl5yfq5-Zm5ieWmxfaAuUsXL0S7F0Tw4Kr0guicjzMsxN8yooKM9zi680K3fzMa7yCvXLtTTS9c328Y43cwsMCCnKyU8rLPXVVSsGAJbjJtA.jpg
+	deleted:    elephant_dataset/posture/group/Screen-Shot-2024-10-29-at-11.14.01-AM.webp
+	deleted:    elephant_dataset/posture/group/african-elephants-drinking-3064889_1920.jpg
+	deleted:    elephant_dataset/posture/group/african-forest-elephant-group-in-forest-africa-820x418.jpg
+	deleted:    elephant_dataset/posture/group/baby-elephant-napping.jpg
+	deleted:    elephant_dataset/posture/group/basics_sociallycomplex_bondgroups1_675w.jpg
+	deleted:    elephant_dataset/posture/group/c0586747-400px-wm.jpg
+	deleted:    elephant_dataset/posture/group/cCVWO3icu5mVUVJSUGylr5-al1xUWVCSmqJbkpRnoJdeXJJYkpmsl5yfq5-Zm5ieWmxfaAuUsXL0S7F0Tw40jY8y9sxJD0n2TA8KCDcKNwrxCg50LIrI8DOpLE-OKAkJTw518vI0DyyLtIxKNfRPVCsGAHJaJe4.jpg
+	deleted:    elephant_dataset/posture/group/elephant-herd-protecting-ring-.webp
+	deleted:    elephant_dataset/posture/group/elephant_tb-pw07m.jpg
+	deleted:    elephant_dataset/posture/group/elephant_tb-pw09g.jpg
+	deleted:    elephant_dataset/posture/group/group-of-elephants-standing-together.jpg
+	deleted:    elephant_dataset/posture/group/hq720.jpg
+	deleted:    elephant_dataset/posture/group/maxresdefault.jpg
+	deleted:    elephant_dataset/posture/group/shutterstock_1739645387-1024x535.jpg
+	deleted:    elephant_dataset/posture/group/tqPmH3icu5mZUVJSUGylr5-al1xUWVCSmqJbkpRnoJdeXJJYkpmsl5yfq5-Zm5ieWmxfaAuUsXL0S7F0Tw7KCcz3qDBP8fXLDskN9c_NSw8PcTQI9vLK9HEsN3P3SrQID_AMy_Q0LAyI9CkpN0xXKwYAXR0l7g.jpg
+	deleted:    elephant_dataset/posture/group/unnamed.avif
+	deleted:    elephant_dataset/posture/herd/01076553.jpg
+	deleted:    elephant_dataset/posture/herd/4a918711cb5e2283728dfb346463fa91.jpg
+	deleted:    elephant_dataset/posture/herd/610_unforgettable_family.jpg
+	deleted:    elephant_dataset/posture/herd/Large-elephant-herd-walking-in-dust-in-Savuti-in-Botswana.jpg
+	deleted:    elephant_dataset/posture/herd/basics_sociallycomplex_bondgroups1_675w.jpg
+	deleted:    elephant_dataset/posture/herd/c0291437-800px-wm.jpg
+	deleted:    elephant_dataset/posture/herd/dsc01271.webp
+	deleted:    elephant_dataset/posture/herd/elephant-herd-protecting-ring-.avif
+	deleted:    elephant_dataset/posture/herd/elephant-protects-calves-from-lion-attack-viral_1689263184763_1689263198905.avif
+	deleted:    elephant_dataset/posture/herd/f0232021-800px-wm.jpg
+	deleted:    elephant_dataset/posture/herd/maxresdefault.jpg
+	deleted:    elephant_dataset/posture/herd/shutterstock_1739645387.jpg
+	deleted:    elephant_dataset/posture/mud bathing/01241550.jpg
+	deleted:    elephant_dataset/posture/mud bathing/1280px-African_Bush_Elephant_mud_bath.png
+	deleted:    elephant_dataset/posture/mud bathing/3134835511_5462bfbf72_b.jpg
+	deleted:    elephant_dataset/posture/mud bathing/5bfcdcbb62c38.avif
+	deleted:    elephant_dataset/posture/mud bathing/African_Bush_Elephant_mud_bath.png
+	deleted:    elephant_dataset/posture/mud bathing/Brampt+Elephant+Mud+Splash.webp
+	deleted:    elephant_dataset/posture/mud bathing/EM3K6nicu5mZUVJSUGylr5-al1xUWVCSmqJbkpRnoJdeXJJYkpmsl5yfq5-Zm5ieWmxfaAuUsXL0S7F0Tw7O93AOMY33D9MtC8wIDzMJqfL29gh3TTEoywn3c3MzcHStyg13DUp2D8p3zin3z4lUKwYASW0lvA.jpg
+	deleted:    elephant_dataset/posture/mud bathing/Elephant-Mud-Bath-1536x816.jpg
+	deleted:    elephant_dataset/posture/mud bathing/Elephant-mud-bath-Pondoro.jpg
+	deleted:    elephant_dataset/posture/mud bathing/Free-Elephants-Playing-in-the-Mud-1-1.webp
+	deleted:    elephant_dataset/posture/mud bathing/NFFMqHicu5mZUVJSUGylr5-al1xUWVCSmqJbkpRnoJdeXJJYkpmsl5yfq5-Zm5ieWmxfaAuUsXL0S7F0Tw5KDvAPMzaOSC7Id_GzcMvPSypLCvIrzyzI9AvySCqKdPTNrDIwNw91M01zsiixNDBRKwYAXCUllQ.jpg
+	deleted:    elephant_dataset/posture/mud bathing/Throwing-Dirt_MO-Elephants_KIDS_0323.jpg
+	deleted:    elephant_dataset/posture/mud bathing/XputX79TmckZZ83K_VSEMje0PT1pMWHksFQw80CL5IAxGpF9rsNbs4d0Xk5GvxeCPjlyywKd2wPcD7oXiKeIFLWVuP9o22ntigrdaQx8biV9eBz-SDjB52AbS65r_o1FUa6uDs4smB6DzaHulx6QRg.jpg
+	deleted:    elephant_dataset/posture/mud bathing/Z9410068.jpg
+	deleted:    elephant_dataset/posture/mud bathing/are-elephant-mud-baths-ethical.webp
+	deleted:    elephant_dataset/posture/mud bathing/c0146869-800px-wm.jpg
+	deleted:    elephant_dataset/posture/mud bathing/elephant-jungle-sanctuary-feeding-mud-spa-and-showering.webp
+	deleted:    elephant_dataset/posture/mud bathing/f0233255-800px-wm.jpg
+	deleted:    elephant_dataset/posture/mud bathing/f0338178-800px-wm.jpg
+	deleted:    elephant_dataset/posture/mud bathing/hBUKeHicu5mVUVJSUGylr5-al1xUWVCSmqJbkpRnoJdeXJJYkpmsl5yfq5-Zm5ieWmxfaAuUsXL0S7F0Tw6JjE_2CbfwKtEtSEoOCA9JLSgp8zdMynSpNPAK90mNCIo3cDKOciqPCjByCwwPCiorUysGAINXJlA.jpg
+	deleted:    elephant_dataset/posture/mud bathing/hq720.jpg
+	deleted:    elephant_dataset/posture/mud bathing/lwp-elephant-mudbath.jpg
+	deleted:    elephant_dataset/posture/mud bathing/maxresdefault.jpg
+	deleted:    elephant_dataset/posture/mud bathing/mud-bath-Marian_Herz.jpg
+	deleted:    elephant_dataset/posture/mud bathing/oar2.jpg
+	deleted:    elephant_dataset/posture/mud bathing/one-of-the-elephants.jpg
+	deleted:    elephant_dataset/posture/mud bathing/photo-1506799772816-8bf96ab457ad.jpg
+	deleted:    elephant_dataset/posture/mud bathing/rear-view-elephant-spraying-mud-footage-123266500_iconl.webp
+	deleted:    elephant_dataset/posture/running/16e2ae20927db96b62ce77a7ce398ddd.jpg
+	deleted:    elephant_dataset/posture/running/2-angry-elephant-running-cartoon-clipart.jpg
+	deleted:    elephant_dataset/posture/running/255fa287a640ba176d3cc9ef87817f4e.jpg
+	deleted:    elephant_dataset/posture/running/3840870984_b36143349e_b.jpg
+	deleted:    elephant_dataset/posture/running/715QAXpK76L._AC_UF894,1000_QL80_.jpg
+	deleted:    elephant_dataset/posture/running/7c266c55855b14230dfc27776ce2434d.jpg
+	deleted:    elephant_dataset/posture/running/Africa-Elephant-2602-Edit.jpg
+	deleted:    elephant_dataset/posture/running/African-elephant-running.jpg
+	deleted:    elephant_dataset/posture/running/BuxwfXicu5mVUVJSUGylr5-al1xUWVCSmqJbkpRnoJdeXJJYkpmsl5yfq5-Zm5ieWmxfaAuUsXL0S7F0Tw4JN_eOKDLPMzLJLikIj8-MDzD0qnR08bY0KKl0NC1PDfY1ygw18KgoCzUILdbNcYn0VSsGAHN6Jdg.jpg
+	deleted:    elephant_dataset/posture/running/COLOURBOX65777596.webp
+	deleted:    elephant_dataset/posture/running/Elephant-charging-our-car-1536x816.jpg
+	deleted:    elephant_dataset/posture/running/Elephant_running.jpg
+	deleted:    elephant_dataset/posture/running/Q7A2106.jpg
+	deleted:    elephant_dataset/posture/running/Running_wild_elephant_in_Sri_Lanka.jpg
+	deleted:    elephant_dataset/posture/running/african-elephant-calf-meta.jpg
+	deleted:    elephant_dataset/posture/running/botswana-curled_elephant_trunk.jpg
+	deleted:    elephant_dataset/posture/running/c0420541-800px-wm.jpg
+	deleted:    elephant_dataset/posture/running/c0526349-800px-wm.jpg
+	deleted:    elephant_dataset/posture/running/d7hftxdivxxvm.cloudfront.webp
+	deleted:    elephant_dataset/posture/running/ele+charge+blog.webp
+	deleted:    elephant_dataset/posture/running/elephant_feature.webp
+	deleted:    elephant_dataset/posture/running/elephants-charging-tourists_page_2021-10-11.jpg
+	deleted:    elephant_dataset/posture/running/f0232594-800px-wm.jpg
+	deleted:    elephant_dataset/posture/running/focused_388544494-stock-photo-side-profile-elephant-calf-loxodonta.jpg
+	deleted:    elephant_dataset/posture/running/how-fast-can-an-elephant-run.jpg
+	deleted:    elephant_dataset/posture/running/hq720.jpg
+	deleted:    elephant_dataset/posture/running/hqdefault.jpg
+	deleted:    elephant_dataset/posture/running/maxresdefault.jpg
+	deleted:    elephant_dataset/posture/running/oar2.jpg
+	deleted:    elephant_dataset/posture/running/s-l400.png
+	deleted:    elephant_dataset/posture/running/shutterstock_182895593-975x650.jpg
+	deleted:    elephant_dataset/posture/running/sized_The_Raw_Spirit_elephant.jpg
+	deleted:    elephant_dataset/posture/sleeping/0d8bc17aabdf3e4559306801139a41f3.jpg
+	deleted:    elephant_dataset/posture/sleeping/77f22506d775445c9f4781b21603f241.jpg
+	deleted:    elephant_dataset/posture/sleeping/Khanyisa-albino-elephant-calf-sleeping.jpg
+	deleted:    elephant_dataset/posture/sleeping/Sleeping_asian_elephant.jpg
+	deleted:    elephant_dataset/posture/sleeping/What-animals-sleep-standing-up-9f0ad2a.jpg
+	deleted:    elephant_dataset/posture/sleeping/a-baby-elephant-rests-on-its-mothers-lap-262127820-16x9_0.jpg
+	deleted:    elephant_dataset/posture/sleeping/ee6bff0a-0258-4a4d-8441-0ef01b0ffc27.jpg
+	deleted:    elephant_dataset/posture/sleeping/fztVSJ_xLL-_awLRsLsmzGSr2ckwXHHBtLaWgLcIWoLcdPbYU-0utNaoTa_JaTofs0yE3TxBJrWcKW0aF9jWu4A1f6tq4g-zh6zlzv9LbEs98d9_SRwtIaLi-sjDvI9qLcdfLkSZBCLrOHqlomqSbA.jpg
+	deleted:    elephant_dataset/posture/sleeping/how-does-an-elephant-sleep-scaled.jpg
+	deleted:    elephant_dataset/posture/sleeping/khanyisa-sleeping-in-blanket.jpg
+	deleted:    elephant_dataset/posture/sleeping/maxresdefault.jpg
+	deleted:    elephant_dataset/posture/sleeping/tight-crop-elephant-trunk-resting-footage-046375758_iconl.webp
+	deleted:    elephant_dataset/posture/standing/2405288540_5cc513d054_b.jpg
+	deleted:    elephant_dataset/posture/standing/7bec5e5af31ed51401aa05d092c27fa4.jpg
+	deleted:    elephant_dataset/posture/standing/Africa-Elephant-3840-Edit.jpg
+	deleted:    elephant_dataset/posture/standing/African-Elephant-Savannah-Grass.jpg
+	deleted:    elephant_dataset/posture/standing/African_Bush_Elephant.jpg.webp
+	deleted:    elephant_dataset/posture/standing/Asian-elephant-in-musth-Elephant-in-standing-anaesthesia-with-tied-limbs-and-showing.jpg
+	deleted:    elephant_dataset/posture/standing/Bull_Elephant_Musth_Kruger_South_Africa_Marc_Cronje.webp
+	deleted:    elephant_dataset/posture/standing/PPI22886S__59996.jpg
+	deleted:    elephant_dataset/posture/standing/Ramba.webp
+	deleted:    elephant_dataset/posture/standing/Screen-Shot-2022-03-07-at-11.38.31-PM.png
+	deleted:    elephant_dataset/posture/standing/a-beautiful-majestic-giant-elephant-stands-in-early-morning-light-with-massive-tusks_spg6ga8t8_thumbnail-1080_01.png
+	deleted:    elephant_dataset/posture/standing/a-majestic-elephant-standing-in-the-african-savanna-at-sunset_10625884.webp
+	deleted:    elephant_dataset/posture/standing/afw-04-mh0073-01p.jpg
+	deleted:    elephant_dataset/posture/standing/asian-elephant-005-20160323-37am-1.jpg
+	deleted:    elephant_dataset/posture/standing/bull-elephant-loxodonta-africana-alert-posture-with-ears-outstretched-looking-towards-the-camera.jpg
+	deleted:    elephant_dataset/posture/standing/c0413313-800px-wm.jpg
+	deleted:    elephant_dataset/posture/standing/c0428652-800px-wm.jpg
+	deleted:    elephant_dataset/posture/standing/ce36edce65a73f89f0d834a1be360c86.jpg
+	deleted:    elephant_dataset/posture/standing/depositphotos_52815611-stock-photo-side-view-full-body-of.jpg
+	deleted:    elephant_dataset/posture/standing/e8f52895fc865b7b52fef26983d2e087.jpg
+	deleted:    elephant_dataset/posture/standing/elephant-standing-in-forest.jpg
+	deleted:    elephant_dataset/posture/standing/f0342183-800px-wm.jpg
+	deleted:    elephant_dataset/posture/standing/photo-1505148550619-ec022758f9a6.jpg
+	deleted:    elephant_dataset/posture/standing/photo-1556873890-a159073d3470.jpg
+	deleted:    elephant_dataset/posture/standing/photo-1560846288-b58bb7ae1083.jpg
+	deleted:    elephant_dataset/posture/standing/photo-1661803263474-d600344f6457.jpg
+	deleted:    elephant_dataset/posture/standing/photo-1698618507826-3e392db1e4f3.jpg
+	deleted:    elephant_dataset/posture/standing/photo-1701665841827-26dce299b312.jpg
+	deleted:    elephant_dataset/posture/standing/photo-1703237570800-b4b0a193a018.jpg
+	deleted:    elephant_dataset/posture/standing/photo-1741850826386-9cb8e5543c73.jpg
+	deleted:    elephant_dataset/posture/standing/photo-1758030101267-c33b590db5dc.jpg
+	deleted:    elephant_dataset/posture/standing/pngtree-a-herd-of-elephants-standing-together-in-grass-land-forest-image_17049451.jpg
+	deleted:    elephant_dataset/posture/standing/premium_photo-1664302852478-a998fd6d151c.jpg
+	deleted:    elephant_dataset/posture/standing/premium_photo-1669740462478-135db9b990ea.jpg
+	deleted:    elephant_dataset/posture/standing/side-view-of-elephant-standing-on-field-at-kruger-national-park-south-africa-VEG00404.jpg
+	deleted:    elephant_dataset/posture/tail swing/1.png
+	deleted:    elephant_dataset/posture/tail swing/2143225-elephant.webp
+	deleted:    elephant_dataset/posture/tail swing/400wm.jpg
+	deleted:    elephant_dataset/posture/tail swing/5155FbidZiL._AC_UF894,1000_QL80_.jpg
+	deleted:    elephant_dataset/posture/tail swing/814639815-b3d3c1c48699f1e2639d7d636b06eae9fb79f2a0e27650bd32836684255a9652-d.webp
+	deleted:    elephant_dataset/posture/tail swing/903951690.png
+	deleted:    "elephant_dataset/posture/tail swing/A-headshake-is-a-very-effective-intimidation-tactic.-\302\251-Sally-Lucas.jpg"
+	deleted:    elephant_dataset/posture/tail swing/Seen-on-safari-Crocodile-swings-from-elephants-tail.jpg
+	deleted:    elephant_dataset/posture/tail swing/UIN4Znicu5mVUVJSUGylr5-al1xUWVCSmqJbkpRnoJdeXJJYkpmsl5yfq5-Zm5ieWmxfaAuUsXL0S7F0Tw7JcXMudSv1NjcsTfQqK3P3MS1z83G38C5McjTMCPZJSnU280vLdMlJcjNIswwvDEjzUysGAHbeJfU.jpg
+	deleted:    elephant_dataset/posture/tail swing/a-0005.jpg
+	deleted:    elephant_dataset/posture/tail swing/animal-cinemagraphs-back-view-elephant-footage-080325748_iconl.webp
+	deleted:    elephant_dataset/posture/tail swing/d41586-018-07069-7_16199040.jpg
+	deleted:    elephant_dataset/posture/tail swing/elephant-tail-closeup.jpg
+	deleted:    elephant_dataset/posture/tail swing/elephant-tail-swings-side-side-footage-218984623_iconl.webp
+	deleted:    elephant_dataset/posture/tail swing/elephant-wagging-tail-000139931_prevstill.webp
+	deleted:    elephant_dataset/posture/tail swing/elephantvillage6.jpg
+	deleted:    elephant_dataset/posture/tail swing/hqdefault.jpg
+	deleted:    elephant_dataset/posture/tail swing/ita8wnicu5mZUVJSUGylr5-al1xUWVCSmqJbkpRnoJdeXJJYkpmsl5yfq5-Zm5ieWmxfaAuUsXL0S7F0Tw70jigMMUjKScn19HX1yjIyK3IzCKpyCwssydN194sMNfNIzC3yDw5JDMqqjE_KikpXKwYAUtImLg.jpg
+	deleted:    elephant_dataset/posture/tail swing/l-intro-1626466923.jpg
+	deleted:    elephant_dataset/posture/tail swing/maxresdefault.jpg
+	deleted:    elephant_dataset/posture/tail swing/s-l1200.jpg
+	deleted:    elephant_dataset/posture/tail swing/shutterstock_1222149808-1024x768.jpg
+	deleted:    elephant_dataset/posture/tail swing/shutterstock_1756321937.jpg
+	deleted:    elephant_dataset/posture/tail swing/shutterstock_69938449-1024x683.jpg
+	deleted:    elephant_dataset/posture/tail swing/slow-motion-african-elephant-rear-footage-249497986_iconl.webp
+	deleted:    elephant_dataset/posture/tail swing/wagging-tail-african-elephant-acacia-footage-194450699_iconl.webp
+	deleted:    elephant_dataset/posture/tail swing/wagging-tail-african-elephant-standing-footage-194451399_iconl.webp
+	deleted:    elephant_dataset/posture/trunk down/1701934303_blogimage.webp
+	deleted:    elephant_dataset/posture/trunk down/230316_ECCC_SURYODAY_GINGER-ELEPHANT_WALK-TRUNK00020.jpg
+	deleted:    elephant_dataset/posture/trunk down/2afda7adc3efb78f0bdc203ed86105a9.jpg
+	deleted:    elephant_dataset/posture/trunk down/5733911-photograph-of-a-walking-elephant-in-nature-with-his-trunk-hanging-down.jpg
+	deleted:    elephant_dataset/posture/trunk down/71FiX5i345S._AC_UF894,1000_QL80_.jpg
+	deleted:    elephant_dataset/posture/trunk down/81FeIyP5piL.jpg
+	deleted:    elephant_dataset/posture/trunk down/81bVKKqIT8L.jpg
+	deleted:    "elephant_dataset/posture/trunk down/An-elephants-trunk-communicates-a-vast-amount-of-information-\302\251-Karen-Blackwood.jpg"
+	deleted:    elephant_dataset/posture/trunk down/C2_Elephant_C__11304.jpg
+	deleted:    elephant_dataset/posture/trunk down/_LEE5894.jpg
+	deleted:    elephant_dataset/posture/trunk down/african-elephant-grazing-trunk-curled-footage-319773566_iconl.webp
+	deleted:    elephant_dataset/posture/trunk down/bull-elephant-silhouette-against-orange-footage-113441303_iconl.webp
+	deleted:    elephant_dataset/posture/trunk down/dcb47d74-1b9c-45c3-be35-18c5571af74a.webp
+	deleted:    elephant_dataset/posture/trunk down/elent03.webp
+	deleted:    elephant_dataset/posture/trunk down/elephant-standing-w-trunk-down-ultra-realistic-145.jpg
+	deleted:    elephant_dataset/posture/trunk down/elephant.jpg
+	deleted:    elephant_dataset/posture/trunk down/gdtauthentic_ethereal_ZambeziDream_motion-blur-wildlife.jpg
+	deleted:    elephant_dataset/posture/trunk down/il_570xN.1655556927_o1xg.jpg
+	deleted:    elephant_dataset/posture/trunk down/iwTYp3icu5mVUVJSUGylr5-al1xUWVCSmqJbkpRnoJdeXJJYkpmsl5yfq5-Zm5ieWmxfaAuUsXL0S7F0Tw429wwoTTc3Ckm0iHQzzTcojCrVLfRKjnDKCszOMAtxDqr09ivXTUsyNfJPC_It03VJVisGAGpOJaQ.jpg
+	deleted:    elephant_dataset/posture/trunk down/premium_photo-1661898214351-20a090b72abd.jpg
+	deleted:    elephant_dataset/posture/trunk down/shutterstock-2383567913-huge-licensed-scaled-1024x680.jpg
+	deleted:    elephant_dataset/posture/trunk down/shutterstock_692306716-1024x664.jpg
+	deleted:    elephant_dataset/posture/trunk down/yR145nicu5mZUVJSUGylr5-al1xUWVCSmqJbkpRnoJdeXJJYkpmsl5yfq5-Zm5ieWmxfaAuUsXL0S7F0Tw4003XzK3OryKz0zPIxMo7M8XEuCY0v9w8sKwrPNYxwCUnO8610jHJOz_Mtqgo3KSpXKwYAXDEmnw.jpg
+	deleted:    elephant_dataset/posture/trunk up/01501710.jpg
+	deleted:    elephant_dataset/posture/trunk up/12f862aee745f64b69caa6304f7a691a.jpg
+	deleted:    elephant_dataset/posture/trunk up/2J2A0046_820x1024.webp
+	deleted:    elephant_dataset/posture/trunk up/80fc5b2475f35746dcc31b3616da3fa6.jpg
+	deleted:    elephant_dataset/posture/trunk up/91ip2ZDhjrL.jpg
+	deleted:    elephant_dataset/posture/trunk up/African_elephant_warning_raised_trunk.jpg
+	deleted:    elephant_dataset/posture/trunk up/Elephant-2-1-1024x819.jpg
+	deleted:    elephant_dataset/posture/trunk up/Elephant-trunk-scaled.jpg
+	deleted:    elephant_dataset/posture/trunk up/Indian_elephant_with_raised_trunk.jpg
+	deleted:    elephant_dataset/posture/trunk up/Original_WW22191.jpg
+	deleted:    elephant_dataset/posture/trunk up/Plotniketal7.width-1500.jpg
+	deleted:    elephant_dataset/posture/trunk up/Plotniketal7.width-2000.jpg
+	deleted:    elephant_dataset/posture/trunk up/Three_elephant's_curly_kisses.jpg
+	deleted:    elephant_dataset/posture/trunk up/an-elephant-loxodonta-africana-has-a-sand-bath-lift-trunk-up-and-spray-back-with-sand-alert-one-tusk-elephant-in-background-MINF10475.jpg
+	deleted:    elephant_dataset/posture/trunk up/c0479636-800px-wm.jpg
+	deleted:    elephant_dataset/posture/trunk up/elephant_kp3a-bz.jpg
+	deleted:    elephant_dataset/posture/trunk up/elephant_trunk_up-scaled-1.jpg
+	deleted:    elephant_dataset/posture/trunk up/elephants_trunks_communication_1m-1400x850.jpg
+	deleted:    elephant_dataset/posture/trunk up/foraging+blog-1+copy.webp
+	deleted:    elephant_dataset/posture/trunk up/il_fullxfull.4401754612_j58z.avif
+	deleted:    elephant_dataset/posture/trunk up/impressive-elephant-w-trunk-up-ultra-realistic-155.jpg
+	deleted:    elephant_dataset/posture/trunk up/photo-1669411466508-40d318398d57.jpg
+	deleted:    elephant_dataset/posture/trunk up/rana-elefact-friday-2.26.jpg
+	deleted:    elephant_dataset/posture/trunk up/s-l1200.jpg
+	deleted:    elephant_dataset/posture/trunk up/s-l400.jpg
+	deleted:    elephant_dataset/posture/trunk up/shutterstock-466606040-huge-licensed-scaled.jpg
+	deleted:    elephant_dataset/posture/trunk up/shutterstock_43150582-johan-swanepoel.jpg
+	deleted:    elephant_dataset/posture/walking/01023694.jpg
+	deleted:    elephant_dataset/posture/walking/01602621.jpg
+	deleted:    elephant_dataset/posture/walking/0297ebebd3d65460f756656855c74ce8.jpg
+	deleted:    elephant_dataset/posture/walking/20190224-d81_7942-2.webp
+	deleted:    elephant_dataset/posture/walking/2607fcde6dab9f097e271069491a7132.jpg
+	deleted:    elephant_dataset/posture/walking/27231630-asian-elephant-walking-in-a-zoo.jpg
+	deleted:    elephant_dataset/posture/walking/375481_375481.jpg
+	deleted:    elephant_dataset/posture/walking/70249549-An-african-elephant-walking-away-from-the-camera.jpg
+	deleted:    elephant_dataset/posture/walking/African_Elephant_walking.jpg
+	deleted:    elephant_dataset/posture/walking/Asian_elephant_walking_in_Tad_Lo_river_at_golden_hour,_Bolaven_Plateau,_Laos.jpg
+	deleted:    elephant_dataset/posture/walking/D869_26_113_1200.jpg
+	deleted:    elephant_dataset/posture/walking/Elephant-phalanx.jpg
+	deleted:    elephant_dataset/posture/walking/ElephantMigration_Amboseli_AWF.jpg
+	deleted:    elephant_dataset/posture/walking/Elephant_side-view_Kruger.jpg
+	deleted:    elephant_dataset/posture/walking/a-beautiful-majestic-giant-elephant-stands-in-early-morning-light-with-massive-tusks_spg6ga8t8_thumbnail-1080_01.png
+	deleted:    elephant_dataset/posture/walking/african-elephants-alert-circle-earthquake.webp
+	deleted:    elephant_dataset/posture/walking/apizietfg__35017.jpg
+	deleted:    elephant_dataset/posture/walking/c0357267-800px-wm.jpg
+	deleted:    elephant_dataset/posture/walking/c0413044-800px-wm.jpg
+	deleted:    elephant_dataset/posture/walking/c0588216-800px-wm.jpg
+	deleted:    elephant_dataset/posture/walking/c55d87a76d6a93d6e25fc553456c08dd.jpg
+	deleted:    elephant_dataset/posture/walking/e5297762b6860f174ec31fc255765ae3.jpg
+	deleted:    elephant_dataset/posture/walking/elephant-blue-sky_f08ilo.jpg
+	deleted:    elephant_dataset/posture/walking/f0232021-800px-wm.jpg
+	deleted:    elephant_dataset/posture/walking/maxresdefault.jpg
+	deleted:    elephant_dataset/posture/walking/meet-an-elephant-1-1024x1024.jpg
+	deleted:    elephant_dataset/posture/walking/npr.brightspotcdn.jpg
+	deleted:    elephant_dataset/posture/walking/photo-1563382116742-9afc005ec9d0.jpg
+	deleted:    elephant_dataset/posture/walking/photo-1597489204822-6f031f10f09d.jpg
+	deleted:    elephant_dataset/posture/walking/photo-1648016956247-e9c070ced7ed.jpg
+	deleted:    elephant_dataset/posture/walking/photo-1668072984267-7dcf1cd26e0d.jpg
+	deleted:    elephant_dataset/posture/walking/photo-1720005979515-60f2fa091fad.jpg
+	deleted:    elephant_dataset/posture/walking/photo-1740021778104-6d4abe5808cc.jpg
+	deleted:    elephant_dataset/posture/walking/photo-1753167166328-cc346c76642e.jpg
+	deleted:    elephant_dataset/posture/walking/sddefault.jpg
+	deleted:    elephant_dataset/posture/walking/videoblocks-elephant-walking-on-the-street-of-the-village-with-a-guy-trained-elephant-in-the-village_bo1cba72e_thumbnail-1080_01.png
+	deleted:    elephant_dataset/posture/walking/yE0wMHicu5mVUVJSUGylr5-al1xUWVCSmqJbkpRnoJdeXJJYkpmsl5yfq5-Zm5ieWmxfaAuUsXL0S7F0Tw7xTc9Ms8zM807ytcyzNEv3KQzOys4NLE30NHYsMHQKDgrzNq-ydLWwKI3PCc829E51VCsGAICgJgc.jpg
+	deleted:    elephant_dataset/posture_split/train.cache
+	deleted:    elephant_dataset/posture_split/train/calf under mother/01036719.jpg
+	deleted:    elephant_dataset/posture_split/train/calf under mother/1804812-elephants-huddle-calf-israel-rockets.webp
+	deleted:    elephant_dataset/posture_split/train/calf under mother/307970.jpg
+	deleted:    elephant_dataset/posture_split/train/calf under mother/4Phabeni-Lundi-suckle-scaled.jpg
+	deleted:    elephant_dataset/posture_split/train/calf under mother/HERD-Lundi.jpg
+	deleted:    elephant_dataset/posture_split/train/calf under mother/JQmBIHicu5mZUVJSUGylr5-al1xUWVCSmqJbkpRnoJdeXJJYkpmsl5yfq5-Zm5ieWmxfaAuUsXL0S7F0Tw7J8w8zKy13cSrJKawyCbU0qHJx8yv1rnJ0q_J2zqkK9CktyMqNcsx0cS3NcI4otQhUKwYAa4Umrw.jpg
+	deleted:    elephant_dataset/posture_split/train/calf under mother/PRI210534845.jpg
+	deleted:    elephant_dataset/posture_split/train/calf under mother/WR202509_ElephantCalfRescue_009_905988_reduced.jpg
+	deleted:    elephant_dataset/posture_split/train/calf under mother/WR202511_ChammaNewCalf_006_932505_reduced.jpg
+	deleted:    elephant_dataset/posture_split/train/calf under mother/Zaiya feeding 2.png
+	deleted:    elephant_dataset/posture_split/train/calf under mother/african-elephant-calf-follows-mom.jpg
+	deleted:    elephant_dataset/posture_split/train/calf under mother/asian-elephant-calf-mother.jpg
+	deleted:    elephant_dataset/posture_split/train/calf under mother/baby-elephant-napping.jpg
+	deleted:    elephant_dataset/posture_split/train/calf under mother/depositphotos_87769340-stock-photo-a-small-elephant-calf-is.jpg
+	deleted:    elephant_dataset/posture_split/train/calf under mother/elephant-herd-protecting-ring-.webp
+	deleted:    elephant_dataset/posture_split/train/calf under mother/gojevc38_baby-elephant-_625x300_03_January_24.png
+	deleted:    elephant_dataset/posture_split/train/calf under mother/hq720.jpg
+	deleted:    elephant_dataset/posture_split/train/calf under mother/ipiccy_image-36-1_6316ed69a03fc.webp
+	deleted:    elephant_dataset/posture_split/train/calf under mother/oardefault.jpg
+	deleted:    elephant_dataset/posture_split/train/calf under mother/p0493gjd.jpg
+	deleted:    elephant_dataset/posture_split/train/calf under mother/repost-martinmeyer_wild-COin-5tAbHY+(1).webp
+	deleted:    elephant_dataset/posture_split/train/calf under mother/untitled-May-00028-2.jpg
+	deleted:    elephant_dataset/posture_split/train/calf under mother/ySAWKHicu5mVUVJSUGylr5-al1xUWVCSmqJbkpRnoJdeXJJYkpmsl5yfq5-Zm5ieWmxfaAuUsXL0S7F0Tw70skhzc3M0zku2zMkuM61KzbGoTMkpy_LKMzFOTzMyd0xLdHL2KvEpMnfLzkx1DSy0UCsGAH4EJks.jpg
+	deleted:    elephant_dataset/posture_split/train/charging/163557_web.jpg
+	deleted:    elephant_dataset/posture_split/train/charging/2005-tusker-musth-crop.jpg
+	deleted:    elephant_dataset/posture_split/train/charging/662c94f6675da852008a3b4fa5e03f3c.jpg
+	deleted:    "elephant_dataset/posture_split/train/charging/A-headshake-is-a-very-effective-intimidation-tactic.-\302\251-Sally-Lucas.jpg"
+	deleted:    elephant_dataset/posture_split/train/charging/African_elephant_warning_raised_trunk.jpg
+	deleted:    elephant_dataset/posture_split/train/charging/Aggressive-Elephant_PSE.jpg
+	deleted:    "elephant_dataset/posture_split/train/charging/An-elephants-trunk-communicates-a-vast-amount-of-information-\302\251-Karen-Blackwood.jpg"
+	deleted:    elephant_dataset/posture_split/train/charging/Angry_elephant_ears.jpg
+	deleted:    elephant_dataset/posture_split/train/charging/Elephant Shot Placement.jpg
+	deleted:    elephant_dataset/posture_split/train/charging/Elephant-charging-our-car-1536x816.jpg
+	deleted:    elephant_dataset/posture_split/train/charging/PRI_215989579.webp
+	deleted:    elephant_dataset/posture_split/train/charging/Q7A2026.jpg
+	deleted:    elephant_dataset/posture_split/train/charging/QENP-ellies-6-1024x762.jpg.webp
+	deleted:    elephant_dataset/posture_split/train/charging/Screenshot-2025-09-25-at-14.50.45.webp
+	deleted:    elephant_dataset/posture_split/train/charging/_RED6930-2-ext-edit-ext-edit-2_PSE.jpg
+	deleted:    elephant_dataset/posture_split/train/charging/elephant_india.jpg
+	deleted:    elephant_dataset/posture_split/train/charging/hq720.jpg
+	deleted:    elephant_dataset/posture_split/train/charging/maxresdefault.jpg
+	deleted:    elephant_dataset/posture_split/train/charging/sddefault.jpg
+	deleted:    elephant_dataset/posture_split/train/charging/shutterstock_2022593135.jpg
+	deleted:    elephant_dataset/posture_split/train/drinking/800wm.jpg
+	deleted:    elephant_dataset/posture_split/train/drinking/Art-Of-Safari_Wallpaper_Sept2017_2880-x-1800.jpg
+	deleted:    elephant_dataset/posture_split/train/drinking/Baby_Elephants_Drinking_at_Waterhole_2019-07-23.jpg
+	deleted:    elephant_dataset/posture_split/train/drinking/african-elephant-calf-drinking-water.jpg
+	deleted:    elephant_dataset/posture_split/train/drinking/an-elephant-drinking.jpg
+	deleted:    elephant_dataset/posture_split/train/drinking/dSYuE6TESP9i9fJHUDKPXytrJFoz8o69tLh-u3yya7TA8nF0pLvXbDjLhn9WsTe6lb4l1jocApGq58vNIpcemrf7_FYXVqY8ASlkubuopVCOcrGjKD10zcu4FfgqYgvNXvhPh4kqIhQa8qynITefbQ.jpg
+	deleted:    elephant_dataset/posture_split/train/drinking/hq720.jpg
+	deleted:    elephant_dataset/posture_split/train/drinking/hq720_2.jpg
+	deleted:    elephant_dataset/posture_split/train/drinking/maxresdefault.jpg
+	deleted:    elephant_dataset/posture_split/train/dusting/00478181.jpg
+	deleted:    elephant_dataset/posture_split/train/dusting/01521732.jpg
+	deleted:    elephant_dataset/posture_split/train/dusting/01596036.jpg
+	deleted:    elephant_dataset/posture_split/train/dusting/01643046.jpg
+	deleted:    elephant_dataset/posture_split/train/dusting/01733954.jpg
+	deleted:    elephant_dataset/posture_split/train/dusting/1wgeSHicu5mVUVJSUGylr5-al1xUWVCSmqJbkpRnoJdeXJJYkpmsl5yfq5-Zm5ieWmxfaAuUsXL0S7F0Tw6uCPF09Ml0DfM0MHR2LjVJLA921C3MdnQqLfMqLQ8t8wiuyA7yDg9wC01JLEtLM_IqVCsGAHiyJo4.jpg
+	deleted:    elephant_dataset/posture_split/train/dusting/6b4c25ff785e437d848f77b9e63c7ed7.png
+	deleted:    elephant_dataset/posture_split/train/dusting/African-Elephant-in-cloud-of-dust.webp
+	deleted:    elephant_dataset/posture_split/train/dusting/C-gVM7fXcAADZag.jpg
+	deleted:    elephant_dataset/posture_split/train/dusting/Dust coat.jpg
+	deleted:    elephant_dataset/posture_split/train/dusting/Dust-Bath-Ritual.png
+	deleted:    elephant_dataset/posture_split/train/dusting/Z9410143.jpg
+	deleted:    elephant_dataset/posture_split/train/dusting/c0416613-800px-wm.jpg
+	deleted:    elephant_dataset/posture_split/train/dusting/c0551856-800px-wm.jpg
+	deleted:    elephant_dataset/posture_split/train/dusting/cDY1dyC_t0jL2KuLUWTuTS7_A_u_xjrB9mGbW11vqR_N22MZj7gLzUwmhW5F-v9d6uiHZxJWyEHGGYBCnEqlJ4NJ-_CZHJuEwZTXms3B5h63IEwYFuPV5Hsys1iY0Ko9PyzXvbkSiUwPLUb3vhmoFg.jpg
+	deleted:    elephant_dataset/posture_split/train/dusting/dusty+ele.webp
+	deleted:    elephant_dataset/posture_split/train/dusting/elephant-1_3424860b.webp
+	deleted:    elephant_dataset/posture_split/train/dusting/hq720.jpg
+	deleted:    elephant_dataset/posture_split/train/dusting/hqdefault.jpg
+	deleted:    elephant_dataset/posture_split/train/dusting/offset_724530.jpg
+	deleted:    elephant_dataset/posture_split/train/dusting/red-elephants-throwing-dust-themselves-footage-128943950_iconl.webp
+	deleted:    elephant_dataset/posture_split/train/dusting/showimg_hkl902_search.webp
+	deleted:    elephant_dataset/posture_split/train/ear flapping/48870074273_aff48deda5_b.jpg
+	deleted:    elephant_dataset/posture_split/train/ear flapping/61GBUawUD5L._AC_UY350_.jpg
+	deleted:    elephant_dataset/posture_split/train/ear flapping/8411878443_ff57eda1c2_b.jpg
+	deleted:    "elephant_dataset/posture_split/train/ear flapping/A-headshake-is-a-very-effective-intimidation-tactic.-\302\251-Sally-Lucas.jpg"
+	deleted:    elephant_dataset/posture_split/train/ear flapping/Angry_elephant_ears.jpg
+	deleted:    elephant_dataset/posture_split/train/ear flapping/Morphoanatomical-ear-differences-between-Asian-Elephas-maximus-and-African-Loxodonta.png
+	deleted:    elephant_dataset/posture_split/train/ear flapping/SAFARI-SELF-GUIDE-ELEPHANT.png
+	deleted:    elephant_dataset/posture_split/train/ear flapping/Screen-Shot-2025-04-14-at-95510-PM-1.webp
+	deleted:    elephant_dataset/posture_split/train/ear flapping/Why-Do-Elephants-Have-Big-Ears.png
+	deleted:    elephant_dataset/posture_split/train/ear flapping/c0545177-800px-wm.jpg
+	deleted:    elephant_dataset/posture_split/train/ear flapping/canvas-prints-huge-african-elephant-bull-with-it-s-ears-spread.jpg
+	deleted:    elephant_dataset/posture_split/train/ear flapping/earspreading_650w.jpg
+	deleted:    elephant_dataset/posture_split/train/ear flapping/img_3465.jpg
+	deleted:    elephant_dataset/posture_split/train/ear flapping/maxresdefault.jpg
+	deleted:    elephant_dataset/posture_split/train/ear flapping/npr.brightspotcdn.jpg
+	deleted:    elephant_dataset/posture_split/train/ear flapping/wild-african-elephant-flapping-ears-footage-255847869_iconl.webp
+	deleted:    elephant_dataset/posture_split/train/eating/1-elephant_foraging_mopane_tree.jpg
+	deleted:    elephant_dataset/posture_split/train/eating/11511591-An-elephant-eating-leaves-off-a-tree-Okavango-Delta-Botswana.jpg
+	deleted:    elephant_dataset/posture_split/train/eating/22-1024x682.jpg
+	deleted:    elephant_dataset/posture_split/train/eating/Asian_elephant_eating_-_melbourne_zoo.jpg
+	deleted:    elephant_dataset/posture_split/train/eating/HERD-Lundi.jpg
+	deleted:    elephant_dataset/posture_split/train/eating/LC201907_ElephantHerd_001_355243_reduced.jpg
+	deleted:    elephant_dataset/posture_split/train/eating/O2Fcrnicu5mVUVJSUGylr5-al1xUWVCSmqJbkpRnoJdeXJJYkpmsl5yfq5-Zm5ieWmxfaAuUsXL0S7F0Tw5y9vCN9CuK96w0dfNM9zMyMvYOMHRONw4yMCoOK87Jjwr1KizJcvUIM40KLg3N940wUysGAGDYJZA.jpg
+	deleted:    elephant_dataset/posture_split/train/eating/Shresatha_Feature-Image.jpg
+	deleted:    elephant_dataset/posture_split/train/eating/african-elephant-eating-forest-scene-footage-112203387_iconl.webp
+	deleted:    elephant_dataset/posture_split/train/eating/animals-fall5d3a-1175-edit.jpg
+	deleted:    elephant_dataset/posture_split/train/eating/baby-elephants-are-being-fed-by-their-handlers-in-a-sanctuary-for-orphan-elephants.webp
+	deleted:    elephant_dataset/posture_split/train/eating/c0520859-800px-wm.jpg
+	deleted:    elephant_dataset/posture_split/train/eating/elephant-eating-02-786x500.jpg
+	deleted:    elephant_dataset/posture_split/train/eating/elephant-eating-resized.jpg
+	deleted:    elephant_dataset/posture_split/train/eating/elephant_eating_dirt.jpg
+	deleted:    elephant_dataset/posture_split/train/eating/elephant_lznp-r0102_med.jpg
+	deleted:    elephant_dataset/posture_split/train/eating/hq720.jpg
+	deleted:    elephant_dataset/posture_split/train/eating/maxresdefault.jpg
+	deleted:    elephant_dataset/posture_split/train/eating/npr.brightspotcdn.jpg
+	deleted:    elephant_dataset/posture_split/train/eating/photo-1556873890-a159073d3470.jpg
+	deleted:    elephant_dataset/posture_split/train/eating/ruth-smith.jpg
+	deleted:    elephant_dataset/posture_split/train/eating/sddefault.jpg
+	deleted:    elephant_dataset/posture_split/train/eating/what-do-elephants-eat-2-1-683x1024.jpg
+	deleted:    elephant_dataset/posture_split/train/group/0530-Pilanesbergelephants-Shannon.jpg
+	deleted:    elephant_dataset/posture_split/train/group/16IOFXicu5mVUVJSUGylr5-al1xUWVCSmqJbkpRnoJdeXJJYkpmsl5yfq5-Zm5ieWmxfaAuUsXL0S7F0Tw6O9wlP8y6sqDJyT3RLy3KuKM_JMXZy9oowdQq3MMkOL41KK4l3MnPJTK8MDjFxyfbJUisGAIqrJo0.jpg
+	deleted:    elephant_dataset/posture_split/train/group/97f7d701c9a2f1f6c39fd36f5db82ce3.jpg
+	deleted:    elephant_dataset/posture_split/train/group/Screen-Shot-2024-10-29-at-11.14.01-AM.webp
+	deleted:    elephant_dataset/posture_split/train/group/african-elephants-drinking-3064889_1920.jpg
+	deleted:    elephant_dataset/posture_split/train/group/african-forest-elephant-group-in-forest-africa-820x418.jpg
+	deleted:    elephant_dataset/posture_split/train/group/basics_sociallycomplex_bondgroups1_675w.jpg
+	deleted:    elephant_dataset/posture_split/train/group/cCVWO3icu5mVUVJSUGylr5-al1xUWVCSmqJbkpRnoJdeXJJYkpmsl5yfq5-Zm5ieWmxfaAuUsXL0S7F0Tw40jY8y9sxJD0n2TA8KCDcKNwrxCg50LIrI8DOpLE-OKAkJTw518vI0DyyLtIxKNfRPVCsGAHJaJe4.jpg
+	deleted:    elephant_dataset/posture_split/train/group/elephant-herd-protecting-ring-.webp
+	deleted:    elephant_dataset/posture_split/train/group/elephant_tb-pw07m.jpg
+	deleted:    elephant_dataset/posture_split/train/group/elephant_tb-pw09g.jpg
+	deleted:    elephant_dataset/posture_split/train/group/group-of-elephants-standing-together.jpg
+	deleted:    elephant_dataset/posture_split/train/group/hq720.jpg
+	deleted:    elephant_dataset/posture_split/train/group/maxresdefault.jpg
+	deleted:    elephant_dataset/posture_split/train/group/shutterstock_1739645387-1024x535.jpg
+	deleted:    elephant_dataset/posture_split/train/group/tqPmH3icu5mZUVJSUGylr5-al1xUWVCSmqJbkpRnoJdeXJJYkpmsl5yfq5-Zm5ieWmxfaAuUsXL0S7F0Tw7KCcz3qDBP8fXLDskN9c_NSw8PcTQI9vLK9HEsN3P3SrQID_AMy_Q0LAyI9CkpN0xXKwYAXR0l7g.jpg
+	deleted:    elephant_dataset/posture_split/train/herd/01076553.jpg
+	deleted:    elephant_dataset/posture_split/train/herd/4a918711cb5e2283728dfb346463fa91.jpg
+	deleted:    elephant_dataset/posture_split/train/herd/610_unforgettable_family.jpg
+	deleted:    elephant_dataset/posture_split/train/herd/basics_sociallycomplex_bondgroups1_675w.jpg
+	deleted:    elephant_dataset/posture_split/train/herd/c0291437-800px-wm.jpg
+	deleted:    elephant_dataset/posture_split/train/herd/dsc01271.webp
+	deleted:    elephant_dataset/posture_split/train/herd/f0232021-800px-wm.jpg
+	deleted:    elephant_dataset/posture_split/train/herd/maxresdefault.jpg
+	deleted:    elephant_dataset/posture_split/train/mud bathing/01241550.jpg
+	deleted:    elephant_dataset/posture_split/train/mud bathing/1280px-African_Bush_Elephant_mud_bath.png
+	deleted:    elephant_dataset/posture_split/train/mud bathing/3134835511_5462bfbf72_b.jpg
+	deleted:    elephant_dataset/posture_split/train/mud bathing/African_Bush_Elephant_mud_bath.png
+	deleted:    elephant_dataset/posture_split/train/mud bathing/Brampt+Elephant+Mud+Splash.webp
+	deleted:    elephant_dataset/posture_split/train/mud bathing/EM3K6nicu5mZUVJSUGylr5-al1xUWVCSmqJbkpRnoJdeXJJYkpmsl5yfq5-Zm5ieWmxfaAuUsXL0S7F0Tw7O93AOMY33D9MtC8wIDzMJqfL29gh3TTEoywn3c3MzcHStyg13DUp2D8p3zin3z4lUKwYASW0lvA.jpg
+	deleted:    elephant_dataset/posture_split/train/mud bathing/Elephant-Mud-Bath-1536x816.jpg
+	deleted:    elephant_dataset/posture_split/train/mud bathing/Free-Elephants-Playing-in-the-Mud-1-1.webp
+	deleted:    elephant_dataset/posture_split/train/mud bathing/NFFMqHicu5mZUVJSUGylr5-al1xUWVCSmqJbkpRnoJdeXJJYkpmsl5yfq5-Zm5ieWmxfaAuUsXL0S7F0Tw5KDvAPMzaOSC7Id_GzcMvPSypLCvIrzyzI9AvySCqKdPTNrDIwNw91M01zsiixNDBRKwYAXCUllQ.jpg
+	deleted:    elephant_dataset/posture_split/train/mud bathing/Throwing-Dirt_MO-Elephants_KIDS_0323.jpg
+	deleted:    elephant_dataset/posture_split/train/mud bathing/XputX79TmckZZ83K_VSEMje0PT1pMWHksFQw80CL5IAxGpF9rsNbs4d0Xk5GvxeCPjlyywKd2wPcD7oXiKeIFLWVuP9o22ntigrdaQx8biV9eBz-SDjB52AbS65r_o1FUa6uDs4smB6DzaHulx6QRg.jpg
+	deleted:    elephant_dataset/posture_split/train/mud bathing/c0146869-800px-wm.jpg
+	deleted:    elephant_dataset/posture_split/train/mud bathing/f0338178-800px-wm.jpg
+	deleted:    elephant_dataset/posture_split/train/mud bathing/hBUKeHicu5mVUVJSUGylr5-al1xUWVCSmqJbkpRnoJdeXJJYkpmsl5yfq5-Zm5ieWmxfaAuUsXL0S7F0Tw6JjE_2CbfwKtEtSEoOCA9JLSgp8zdMynSpNPAK90mNCIo3cDKOciqPCjByCwwPCiorUysGAINXJlA.jpg
+	deleted:    elephant_dataset/posture_split/train/mud bathing/hq720.jpg
+	deleted:    elephant_dataset/posture_split/train/mud bathing/lwp-elephant-mudbath.jpg
+	deleted:    elephant_dataset/posture_split/train/mud bathing/maxresdefault.jpg
+	deleted:    elephant_dataset/posture_split/train/mud bathing/mud-bath-Marian_Herz.jpg
+	deleted:    elephant_dataset/posture_split/train/mud bathing/oar2.jpg
+	deleted:    elephant_dataset/posture_split/train/mud bathing/one-of-the-elephants.jpg
+	deleted:    elephant_dataset/posture_split/train/mud bathing/photo-1506799772816-8bf96ab457ad.jpg
+	deleted:    elephant_dataset/posture_split/train/running/16e2ae20927db96b62ce77a7ce398ddd.jpg
+	deleted:    elephant_dataset/posture_split/train/running/2-angry-elephant-running-cartoon-clipart.jpg
+	deleted:    elephant_dataset/posture_split/train/running/255fa287a640ba176d3cc9ef87817f4e.jpg
+	deleted:    elephant_dataset/posture_split/train/running/3840870984_b36143349e_b.jpg
+	deleted:    elephant_dataset/posture_split/train/running/7c266c55855b14230dfc27776ce2434d.jpg
+	deleted:    elephant_dataset/posture_split/train/running/Africa-Elephant-2602-Edit.jpg
+	deleted:    elephant_dataset/posture_split/train/running/African-elephant-running.jpg
+	deleted:    elephant_dataset/posture_split/train/running/COLOURBOX65777596.webp
+	deleted:    elephant_dataset/posture_split/train/running/Elephant-charging-our-car-1536x816.jpg
+	deleted:    elephant_dataset/posture_split/train/running/Elephant_running.jpg
+	deleted:    elephant_dataset/posture_split/train/running/african-elephant-calf-meta.jpg
+	deleted:    elephant_dataset/posture_split/train/running/botswana-curled_elephant_trunk.jpg
+	deleted:    elephant_dataset/posture_split/train/running/c0526349-800px-wm.jpg
+	deleted:    elephant_dataset/posture_split/train/running/d7hftxdivxxvm.cloudfront.webp
+	deleted:    elephant_dataset/posture_split/train/running/ele+charge+blog.webp
+	deleted:    elephant_dataset/posture_split/train/running/elephant_feature.webp
+	deleted:    elephant_dataset/posture_split/train/running/elephants-charging-tourists_page_2021-10-11.jpg
+	deleted:    elephant_dataset/posture_split/train/running/f0232594-800px-wm.jpg
+	deleted:    elephant_dataset/posture_split/train/running/focused_388544494-stock-photo-side-profile-elephant-calf-loxodonta.jpg
+	deleted:    elephant_dataset/posture_split/train/running/how-fast-can-an-elephant-run.jpg
+	deleted:    elephant_dataset/posture_split/train/running/hqdefault.jpg
+	deleted:    elephant_dataset/posture_split/train/running/maxresdefault.jpg
+	deleted:    elephant_dataset/posture_split/train/running/oar2.jpg
+	deleted:    elephant_dataset/posture_split/train/running/s-l400.png
+	deleted:    elephant_dataset/posture_split/train/running/shutterstock_182895593-975x650.jpg
+	deleted:    elephant_dataset/posture_split/train/sleeping/0d8bc17aabdf3e4559306801139a41f3.jpg
+	deleted:    elephant_dataset/posture_split/train/sleeping/77f22506d775445c9f4781b21603f241.jpg
+	deleted:    elephant_dataset/posture_split/train/sleeping/Sleeping_asian_elephant.jpg
+	deleted:    elephant_dataset/posture_split/train/sleeping/a-baby-elephant-rests-on-its-mothers-lap-262127820-16x9_0.jpg
+	deleted:    elephant_dataset/posture_split/train/sleeping/ee6bff0a-0258-4a4d-8441-0ef01b0ffc27.jpg
+	deleted:    elephant_dataset/posture_split/train/sleeping/fztVSJ_xLL-_awLRsLsmzGSr2ckwXHHBtLaWgLcIWoLcdPbYU-0utNaoTa_JaTofs0yE3TxBJrWcKW0aF9jWu4A1f6tq4g-zh6zlzv9LbEs98d9_SRwtIaLi-sjDvI9qLcdfLkSZBCLrOHqlomqSbA.jpg
+	deleted:    elephant_dataset/posture_split/train/sleeping/how-does-an-elephant-sleep-scaled.jpg
+	deleted:    elephant_dataset/posture_split/train/sleeping/khanyisa-sleeping-in-blanket.jpg
+	deleted:    elephant_dataset/posture_split/train/sleeping/tight-crop-elephant-trunk-resting-footage-046375758_iconl.webp
+	deleted:    elephant_dataset/posture_split/train/standing/2405288540_5cc513d054_b.jpg
+	deleted:    elephant_dataset/posture_split/train/standing/Africa-Elephant-3840-Edit.jpg
+	deleted:    elephant_dataset/posture_split/train/standing/African-Elephant-Savannah-Grass.jpg
+	deleted:    elephant_dataset/posture_split/train/standing/Asian-elephant-in-musth-Elephant-in-standing-anaesthesia-with-tied-limbs-and-showing.jpg
+	deleted:    elephant_dataset/posture_split/train/standing/Bull_Elephant_Musth_Kruger_South_Africa_Marc_Cronje.webp
+	deleted:    elephant_dataset/posture_split/train/standing/PPI22886S__59996.jpg
+	deleted:    elephant_dataset/posture_split/train/standing/Ramba.webp
+	deleted:    elephant_dataset/posture_split/train/standing/Screen-Shot-2022-03-07-at-11.38.31-PM.png
+	deleted:    elephant_dataset/posture_split/train/standing/a-beautiful-majestic-giant-elephant-stands-in-early-morning-light-with-massive-tusks_spg6ga8t8_thumbnail-1080_01.png
+	deleted:    elephant_dataset/posture_split/train/standing/a-majestic-elephant-standing-in-the-african-savanna-at-sunset_10625884.webp
+	deleted:    elephant_dataset/posture_split/train/standing/asian-elephant-005-20160323-37am-1.jpg
+	deleted:    elephant_dataset/posture_split/train/standing/bull-elephant-loxodonta-africana-alert-posture-with-ears-outstretched-looking-towards-the-camera.jpg
+	deleted:    elephant_dataset/posture_split/train/standing/c0428652-800px-wm.jpg
+	deleted:    elephant_dataset/posture_split/train/standing/ce36edce65a73f89f0d834a1be360c86.jpg
+	deleted:    elephant_dataset/posture_split/train/standing/depositphotos_52815611-stock-photo-side-view-full-body-of.jpg
+	deleted:    elephant_dataset/posture_split/train/standing/e8f52895fc865b7b52fef26983d2e087.jpg
+	deleted:    elephant_dataset/posture_split/train/standing/f0342183-800px-wm.jpg
+	deleted:    elephant_dataset/posture_split/train/standing/photo-1505148550619-ec022758f9a6.jpg
+	deleted:    elephant_dataset/posture_split/train/standing/photo-1556873890-a159073d3470.jpg
+	deleted:    elephant_dataset/posture_split/train/standing/photo-1560846288-b58bb7ae1083.jpg
+	deleted:    elephant_dataset/posture_split/train/standing/photo-1661803263474-d600344f6457.jpg
+	deleted:    elephant_dataset/posture_split/train/standing/photo-1701665841827-26dce299b312.jpg
+	deleted:    elephant_dataset/posture_split/train/standing/photo-1703237570800-b4b0a193a018.jpg
+	deleted:    elephant_dataset/posture_split/train/standing/photo-1741850826386-9cb8e5543c73.jpg
+	deleted:    elephant_dataset/posture_split/train/standing/pngtree-a-herd-of-elephants-standing-together-in-grass-land-forest-image_17049451.jpg
+	deleted:    elephant_dataset/posture_split/train/standing/premium_photo-1664302852478-a998fd6d151c.jpg
+	deleted:    elephant_dataset/posture_split/train/standing/premium_photo-1669740462478-135db9b990ea.jpg
+	deleted:    elephant_dataset/posture_split/train/standing/side-view-of-elephant-standing-on-field-at-kruger-national-park-south-africa-VEG00404.jpg
+	deleted:    elephant_dataset/posture_split/train/tail swing/1.png
+	deleted:    elephant_dataset/posture_split/train/tail swing/2143225-elephant.webp
+	deleted:    elephant_dataset/posture_split/train/tail swing/400wm.jpg
+	deleted:    elephant_dataset/posture_split/train/tail swing/5155FbidZiL._AC_UF894,1000_QL80_.jpg
+	deleted:    elephant_dataset/posture_split/train/tail swing/903951690.png
+	deleted:    "elephant_dataset/posture_split/train/tail swing/A-headshake-is-a-very-effective-intimidation-tactic.-\302\251-Sally-Lucas.jpg"
+	deleted:    elephant_dataset/posture_split/train/tail swing/Seen-on-safari-Crocodile-swings-from-elephants-tail.jpg
+	deleted:    elephant_dataset/posture_split/train/tail swing/UIN4Znicu5mVUVJSUGylr5-al1xUWVCSmqJbkpRnoJdeXJJYkpmsl5yfq5-Zm5ieWmxfaAuUsXL0S7F0Tw7JcXMudSv1NjcsTfQqK3P3MS1z83G38C5McjTMCPZJSnU280vLdMlJcjNIswwvDEjzUysGAHbeJfU.jpg
+	deleted:    elephant_dataset/posture_split/train/tail swing/a-0005.jpg
+	deleted:    elephant_dataset/posture_split/train/tail swing/elephant-tail-closeup.jpg
+	deleted:    elephant_dataset/posture_split/train/tail swing/elephant-wagging-tail-000139931_prevstill.webp
+	deleted:    elephant_dataset/posture_split/train/tail swing/hqdefault.jpg
+	deleted:    elephant_dataset/posture_split/train/tail swing/ita8wnicu5mZUVJSUGylr5-al1xUWVCSmqJbkpRnoJdeXJJYkpmsl5yfq5-Zm5ieWmxfaAuUsXL0S7F0Tw70jigMMUjKScn19HX1yjIyK3IzCKpyCwssydN194sMNfNIzC3yDw5JDMqqjE_KikpXKwYAUtImLg.jpg
+	deleted:    elephant_dataset/posture_split/train/tail swing/maxresdefault.jpg
+	deleted:    elephant_dataset/posture_split/train/tail swing/s-l1200.jpg
+	deleted:    elephant_dataset/posture_split/train/tail swing/shutterstock_1222149808-1024x768.jpg
+	deleted:    elephant_dataset/posture_split/train/tail swing/shutterstock_1756321937.jpg
+	deleted:    elephant_dataset/posture_split/train/tail swing/shutterstock_69938449-1024x683.jpg
+	deleted:    elephant_dataset/posture_split/train/tail swing/slow-motion-african-elephant-rear-footage-249497986_iconl.webp
+	deleted:    elephant_dataset/posture_split/train/tail swing/wagging-tail-african-elephant-acacia-footage-194450699_iconl.webp
+	deleted:    elephant_dataset/posture_split/train/tail swing/wagging-tail-african-elephant-standing-footage-194451399_iconl.webp
+	deleted:    elephant_dataset/posture_split/train/trunk down/1701934303_blogimage.webp
+	deleted:    elephant_dataset/posture_split/train/trunk down/230316_ECCC_SURYODAY_GINGER-ELEPHANT_WALK-TRUNK00020.jpg
+	deleted:    elephant_dataset/posture_split/train/trunk down/2afda7adc3efb78f0bdc203ed86105a9.jpg
+	deleted:    elephant_dataset/posture_split/train/trunk down/5733911-photograph-of-a-walking-elephant-in-nature-with-his-trunk-hanging-down.jpg
+	deleted:    elephant_dataset/posture_split/train/trunk down/71FiX5i345S._AC_UF894,1000_QL80_.jpg
+	deleted:    elephant_dataset/posture_split/train/trunk down/81bVKKqIT8L.jpg
+	deleted:    elephant_dataset/posture_split/train/trunk down/C2_Elephant_C__11304.jpg
+	deleted:    elephant_dataset/posture_split/train/trunk down/bull-elephant-silhouette-against-orange-footage-113441303_iconl.webp
+	deleted:    elephant_dataset/posture_split/train/trunk down/dcb47d74-1b9c-45c3-be35-18c5571af74a.webp
+	deleted:    elephant_dataset/posture_split/train/trunk down/elent03.webp
+	deleted:    elephant_dataset/posture_split/train/trunk down/elephant-standing-w-trunk-down-ultra-realistic-145.jpg
+	deleted:    elephant_dataset/posture_split/train/trunk down/elephant.jpg
+	deleted:    elephant_dataset/posture_split/train/trunk down/gdtauthentic_ethereal_ZambeziDream_motion-blur-wildlife.jpg
+	deleted:    elephant_dataset/posture_split/train/trunk down/il_570xN.1655556927_o1xg.jpg
+	deleted:    elephant_dataset/posture_split/train/trunk down/iwTYp3icu5mVUVJSUGylr5-al1xUWVCSmqJbkpRnoJdeXJJYkpmsl5yfq5-Zm5ieWmxfaAuUsXL0S7F0Tw429wwoTTc3Ckm0iHQzzTcojCrVLfRKjnDKCszOMAtxDqr09ivXTUsyNfJPC_It03VJVisGAGpOJaQ.jpg
+	deleted:    elephant_dataset/posture_split/train/trunk down/shutterstock-2383567913-huge-licensed-scaled-1024x680.jpg
+	deleted:    elephant_dataset/posture_split/train/trunk down/shutterstock_692306716-1024x664.jpg
+	deleted:    elephant_dataset/posture_split/train/trunk down/yR145nicu5mZUVJSUGylr5-al1xUWVCSmqJbkpRnoJdeXJJYkpmsl5yfq5-Zm5ieWmxfaAuUsXL0S7F0Tw4003XzK3OryKz0zPIxMo7M8XEuCY0v9w8sKwrPNYxwCUnO8610jHJOz_Mtqgo3KSpXKwYAXDEmnw.jpg
+	deleted:    elephant_dataset/posture_split/train/trunk up/01501710.jpg
+	deleted:    elephant_dataset/posture_split/train/trunk up/12f862aee745f64b69caa6304f7a691a.jpg
+	deleted:    elephant_dataset/posture_split/train/trunk up/2J2A0046_820x1024.webp
+	deleted:    elephant_dataset/posture_split/train/trunk up/91ip2ZDhjrL.jpg
+	deleted:    elephant_dataset/posture_split/train/trunk up/African_elephant_warning_raised_trunk.jpg
+	deleted:    elephant_dataset/posture_split/train/trunk up/Elephant-trunk-scaled.jpg
+	deleted:    elephant_dataset/posture_split/train/trunk up/Indian_elephant_with_raised_trunk.jpg
+	deleted:    elephant_dataset/posture_split/train/trunk up/Plotniketal7.width-1500.jpg
+	deleted:    elephant_dataset/posture_split/train/trunk up/Plotniketal7.width-2000.jpg
+	deleted:    elephant_dataset/posture_split/train/trunk up/an-elephant-loxodonta-africana-has-a-sand-bath-lift-trunk-up-and-spray-back-with-sand-alert-one-tusk-elephant-in-background-MINF10475.jpg
+	deleted:    elephant_dataset/posture_split/train/trunk up/c0479636-800px-wm.jpg
+	deleted:    elephant_dataset/posture_split/train/trunk up/elephant_trunk_up-scaled-1.jpg
+	deleted:    elephant_dataset/posture_split/train/trunk up/foraging+blog-1+copy.webp
+	deleted:    elephant_dataset/posture_split/train/trunk up/impressive-elephant-w-trunk-up-ultra-realistic-155.jpg
+	deleted:    elephant_dataset/posture_split/train/trunk up/photo-1669411466508-40d318398d57.jpg
+	deleted:    elephant_dataset/posture_split/train/trunk up/rana-elefact-friday-2.26.jpg
+	deleted:    elephant_dataset/posture_split/train/trunk up/s-l1200.jpg
+	deleted:    elephant_dataset/posture_split/train/trunk up/s-l400.jpg
+	deleted:    elephant_dataset/posture_split/train/trunk up/shutterstock-466606040-huge-licensed-scaled.jpg
+	deleted:    elephant_dataset/posture_split/train/trunk up/shutterstock_43150582-johan-swanepoel.jpg
+	deleted:    elephant_dataset/posture_split/train/walking/01023694.jpg
+	deleted:    elephant_dataset/posture_split/train/walking/01602621.jpg
+	deleted:    elephant_dataset/posture_split/train/walking/0297ebebd3d65460f756656855c74ce8.jpg
+	deleted:    elephant_dataset/posture_split/train/walking/20190224-d81_7942-2.webp
+	deleted:    elephant_dataset/posture_split/train/walking/2607fcde6dab9f097e271069491a7132.jpg
+	deleted:    elephant_dataset/posture_split/train/walking/27231630-asian-elephant-walking-in-a-zoo.jpg
+	deleted:    elephant_dataset/posture_split/train/walking/375481_375481.jpg
+	deleted:    elephant_dataset/posture_split/train/walking/70249549-An-african-elephant-walking-away-from-the-camera.jpg
+	deleted:    elephant_dataset/posture_split/train/walking/African_Elephant_walking.jpg
+	deleted:    elephant_dataset/posture_split/train/walking/Asian_elephant_walking_in_Tad_Lo_river_at_golden_hour,_Bolaven_Plateau,_Laos.jpg
+	deleted:    elephant_dataset/posture_split/train/walking/Elephant-phalanx.jpg
+	deleted:    elephant_dataset/posture_split/train/walking/ElephantMigration_Amboseli_AWF.jpg
+	deleted:    elephant_dataset/posture_split/train/walking/Elephant_side-view_Kruger.jpg
+	deleted:    elephant_dataset/posture_split/train/walking/a-beautiful-majestic-giant-elephant-stands-in-early-morning-light-with-massive-tusks_spg6ga8t8_thumbnail-1080_01.png
+	deleted:    elephant_dataset/posture_split/train/walking/african-elephants-alert-circle-earthquake.webp
+	deleted:    elephant_dataset/posture_split/train/walking/apizietfg__35017.jpg
+	deleted:    elephant_dataset/posture_split/train/walking/c0357267-800px-wm.jpg
+	deleted:    elephant_dataset/posture_split/train/walking/c0413044-800px-wm.jpg
+	deleted:    elephant_dataset/posture_split/train/walking/c0588216-800px-wm.jpg
+	deleted:    elephant_dataset/posture_split/train/walking/e5297762b6860f174ec31fc255765ae3.jpg
+	deleted:    elephant_dataset/posture_split/train/walking/elephant-blue-sky_f08ilo.jpg
+	deleted:    elephant_dataset/posture_split/train/walking/f0232021-800px-wm.jpg
+	deleted:    elephant_dataset/posture_split/train/walking/npr.brightspotcdn.jpg
+	deleted:    elephant_dataset/posture_split/train/walking/photo-1563382116742-9afc005ec9d0.jpg
+	deleted:    elephant_dataset/posture_split/train/walking/photo-1597489204822-6f031f10f09d.jpg
+	deleted:    elephant_dataset/posture_split/train/walking/photo-1648016956247-e9c070ced7ed.jpg
+	deleted:    elephant_dataset/posture_split/train/walking/photo-1668072984267-7dcf1cd26e0d.jpg
+	deleted:    elephant_dataset/posture_split/train/walking/sddefault.jpg
+	deleted:    elephant_dataset/posture_split/train/walking/yE0wMHicu5mVUVJSUGylr5-al1xUWVCSmqJbkpRnoJdeXJJYkpmsl5yfq5-Zm5ieWmxfaAuUsXL0S7F0Tw7xTc9Ms8zM807ytcyzNEv3KQzOys4NLE30NHYsMHQKDgrzNq-ydLWwKI3PCc829E51VCsGAICgJgc.jpg
+	deleted:    elephant_dataset/posture_split/val.cache
+	deleted:    elephant_dataset/posture_split/val/calf under mother/7tW3qnicu5mZUVJSUGylr5-al1xUWVCSmqJbkpRnoJdeXJJYkpmsl5yfq5-Zm5ieWmxfaAuUsXL0S7F0Tw7yLwjNjfQoCzQMNS12Mc519jJPM84yzE_MNvSrqsjIzig1zQoz9_Kz0DU1SHcN1vVUKwYAT6slKg.jpg
+	deleted:    elephant_dataset/posture_split/val/calf under mother/TW35IXicu5mZUVJSUGylr5-al1xUWVCSmqJbkpRnoJdeXJJYkpmsl5yfq5-Zm5ieWmxfaAuUsXL0S7F0Tw4yzyvNtKhydi3OiQyPD3MqDUsyLzOoSswI9wjPTI-KMA5ziygz1c0oDjIKz3LL9ChWKwYAaRsmaQ.jpg
+	deleted:    elephant_dataset/posture_split/val/calf under mother/cq5dam.web.1280.1280.jpg
+	deleted:    elephant_dataset/posture_split/val/calf under mother/indian-asian-elephant-calf-sheltering-adult-1313787.jpg.webp
+	deleted:    elephant_dataset/posture_split/val/calf under mother/kefvucso_mother-elephant_295x200_05_September_22.webp
+	deleted:    elephant_dataset/posture_split/val/calf under mother/maxresdefault.jpg
+	deleted:    "elephant_dataset/posture_split/val/charging/Lotha-Hoho-urges-urgent-action-on-rising-elephant\342\200\223human-conflict-in-Wokha-1024x559.webp"
+	deleted:    elephant_dataset/posture_split/val/charging/Standing-tall-Tim-Driman.jpg
+	deleted:    elephant_dataset/posture_split/val/charging/ele+charge+blog.webp
+	deleted:    elephant_dataset/posture_split/val/charging/elephant-charging.jpg
+	deleted:    elephant_dataset/posture_split/val/charging/hqdefault.jpg
+	deleted:    elephant_dataset/posture_split/val/drinking/060221_SP_elephant-suction_feat.webp
+	deleted:    elephant_dataset/posture_split/val/drinking/13787214-two-asia-elephant-drinking-water-in-tropical-forest.jpg
+	deleted:    elephant_dataset/posture_split/val/drinking/66160118-asian-elephant-or-asiatic-elephant-elephas-maximus-drink-water.jpg
+	deleted:    elephant_dataset/posture_split/val/dusting/16387293976_55c4263564_b.jpg
+	deleted:    elephant_dataset/posture_split/val/dusting/18024003064_fd1f7afea7_b.jpg
+	deleted:    elephant_dataset/posture_split/val/dusting/Behavioural-activity-of-dust-bathing-and-bunching-by-the-elephants-It-can-also-be-seen.jpg
+	deleted:    elephant_dataset/posture_split/val/dusting/Craig+dusting+1.webp
+	deleted:    elephant_dataset/posture_split/val/dusting/Z9410142.jpg
+	deleted:    elephant_dataset/posture_split/val/dusting/z9410142-400px-wm.jpg
+	deleted:    elephant_dataset/posture_split/val/ear flapping/1-2.png
+	deleted:    elephant_dataset/posture_split/val/ear flapping/792237068-2b3763959926d18d55902f7cc530abdea136ecadf2a66b68e269e705cfbf162c-d.webp
+	deleted:    elephant_dataset/posture_split/val/ear flapping/Ear-spreading---Colin-Bell.jpg
+	deleted:    elephant_dataset/posture_split/val/ear flapping/elephant-100725-e7e0b00950264fbf97282406f2095325.jpg
+	deleted:    elephant_dataset/posture_split/val/eating/157283-004-0D1BDEC1.webp
+	deleted:    elephant_dataset/posture_split/val/eating/1_phuket-meet-feed-relax-with-elephant.jpg
+	deleted:    elephant_dataset/posture_split/val/eating/COLOURBOX61550696.webp
+	deleted:    elephant_dataset/posture_split/val/eating/baby-elephat-feeding-1.jpg
+	deleted:    elephant_dataset/posture_split/val/eating/c0483588-800px-wm.jpg
+	deleted:    elephant_dataset/posture_split/val/eating/yum-yum-elephant-eating.jpg
+	deleted:    elephant_dataset/posture_split/val/group/77b94bd08e3726d29c89977988b412bf.jpg
+	deleted:    elephant_dataset/posture_split/val/group/Elephant-Circle.jpg
+	deleted:    elephant_dataset/posture_split/val/group/LUdrWnicu5mVUVJSUGylr5-al1xUWVCSmqJbkpRnoJdeXJJYkpmsl5yfq5-Zm5ieWmxfaAuUsXL0S7F0Tw4Kr0guicjzMsxN8yooKM9zi680K3fzMa7yCvXLtTTS9c328Y43cwsMCCnKyU8rLPXVVSsGAJbjJtA.jpg
+	deleted:    elephant_dataset/posture_split/val/group/baby-elephant-napping.jpg
+	deleted:    elephant_dataset/posture_split/val/group/c0586747-400px-wm.jpg
+	deleted:    elephant_dataset/posture_split/val/herd/Large-elephant-herd-walking-in-dust-in-Savuti-in-Botswana.jpg
+	deleted:    elephant_dataset/posture_split/val/herd/shutterstock_1739645387.jpg
+	deleted:    elephant_dataset/posture_split/val/mud bathing/Elephant-mud-bath-Pondoro.jpg
+	deleted:    elephant_dataset/posture_split/val/mud bathing/Z9410068.jpg
+	deleted:    elephant_dataset/posture_split/val/mud bathing/are-elephant-mud-baths-ethical.webp
+	deleted:    elephant_dataset/posture_split/val/mud bathing/elephant-jungle-sanctuary-feeding-mud-spa-and-showering.webp
+	deleted:    elephant_dataset/posture_split/val/mud bathing/f0233255-800px-wm.jpg
+	deleted:    elephant_dataset/posture_split/val/mud bathing/rear-view-elephant-spraying-mud-footage-123266500_iconl.webp
+	deleted:    elephant_dataset/posture_split/val/running/715QAXpK76L._AC_UF894,1000_QL80_.jpg
+	deleted:    elephant_dataset/posture_split/val/running/BuxwfXicu5mVUVJSUGylr5-al1xUWVCSmqJbkpRnoJdeXJJYkpmsl5yfq5-Zm5ieWmxfaAuUsXL0S7F0Tw4JN_eOKDLPMzLJLikIj8-MDzD0qnR08bY0KKl0NC1PDfY1ygw18KgoCzUILdbNcYn0VSsGAHN6Jdg.jpg
+	deleted:    elephant_dataset/posture_split/val/running/Q7A2106.jpg
+	deleted:    elephant_dataset/posture_split/val/running/Running_wild_elephant_in_Sri_Lanka.jpg
+	deleted:    elephant_dataset/posture_split/val/running/c0420541-800px-wm.jpg
+	deleted:    elephant_dataset/posture_split/val/running/hq720.jpg
+	deleted:    elephant_dataset/posture_split/val/running/sized_The_Raw_Spirit_elephant.jpg
+	deleted:    elephant_dataset/posture_split/val/sleeping/Khanyisa-albino-elephant-calf-sleeping.jpg
+	deleted:    elephant_dataset/posture_split/val/sleeping/What-animals-sleep-standing-up-9f0ad2a.jpg
+	deleted:    elephant_dataset/posture_split/val/sleeping/maxresdefault.jpg
+	deleted:    elephant_dataset/posture_split/val/standing/7bec5e5af31ed51401aa05d092c27fa4.jpg
+	deleted:    elephant_dataset/posture_split/val/standing/African_Bush_Elephant.jpg.webp
+	deleted:    elephant_dataset/posture_split/val/standing/afw-04-mh0073-01p.jpg
+	deleted:    elephant_dataset/posture_split/val/standing/c0413313-800px-wm.jpg
+	deleted:    elephant_dataset/posture_split/val/standing/elephant-standing-in-forest.jpg
+	deleted:    elephant_dataset/posture_split/val/standing/photo-1698618507826-3e392db1e4f3.jpg
+	deleted:    elephant_dataset/posture_split/val/standing/photo-1758030101267-c33b590db5dc.jpg
+	deleted:    elephant_dataset/posture_split/val/tail swing/814639815-b3d3c1c48699f1e2639d7d636b06eae9fb79f2a0e27650bd32836684255a9652-d.webp
+	deleted:    elephant_dataset/posture_split/val/tail swing/animal-cinemagraphs-back-view-elephant-footage-080325748_iconl.webp
+	deleted:    elephant_dataset/posture_split/val/tail swing/d41586-018-07069-7_16199040.jpg
+	deleted:    elephant_dataset/posture_split/val/tail swing/elephant-tail-swings-side-side-footage-218984623_iconl.webp
+	deleted:    elephant_dataset/posture_split/val/tail swing/elephantvillage6.jpg
+	deleted:    elephant_dataset/posture_split/val/tail swing/l-intro-1626466923.jpg
+	deleted:    elephant_dataset/posture_split/val/trunk down/81FeIyP5piL.jpg
+	deleted:    "elephant_dataset/posture_split/val/trunk down/An-elephants-trunk-communicates-a-vast-amount-of-information-\302\251-Karen-Blackwood.jpg"
+	deleted:    elephant_dataset/posture_split/val/trunk down/_LEE5894.jpg
+	deleted:    elephant_dataset/posture_split/val/trunk down/african-elephant-grazing-trunk-curled-footage-319773566_iconl.webp
+	deleted:    elephant_dataset/posture_split/val/trunk down/premium_photo-1661898214351-20a090b72abd.jpg
+	deleted:    elephant_dataset/posture_split/val/trunk up/80fc5b2475f35746dcc31b3616da3fa6.jpg
+	deleted:    elephant_dataset/posture_split/val/trunk up/Elephant-2-1-1024x819.jpg
+	deleted:    elephant_dataset/posture_split/val/trunk up/Original_WW22191.jpg
+	deleted:    elephant_dataset/posture_split/val/trunk up/Three_elephant's_curly_kisses.jpg
+	deleted:    elephant_dataset/posture_split/val/trunk up/elephant_kp3a-bz.jpg
+	deleted:    elephant_dataset/posture_split/val/trunk up/elephants_trunks_communication_1m-1400x850.jpg
+	deleted:    elephant_dataset/posture_split/val/walking/D869_26_113_1200.jpg
+	deleted:    elephant_dataset/posture_split/val/walking/c55d87a76d6a93d6e25fc553456c08dd.jpg
+	deleted:    elephant_dataset/posture_split/val/walking/maxresdefault.jpg
+	deleted:    elephant_dataset/posture_split/val/walking/meet-an-elephant-1-1024x1024.jpg
+	deleted:    elephant_dataset/posture_split/val/walking/photo-1720005979515-60f2fa091fad.jpg
+	deleted:    elephant_dataset/posture_split/val/walking/photo-1740021778104-6d4abe5808cc.jpg
+	deleted:    elephant_dataset/posture_split/val/walking/photo-1753167166328-cc346c76642e.jpg
+	deleted:    elephant_dataset/posture_split/val/walking/videoblocks-elephant-walking-on-the-street-of-the-village-with-a-guy-trained-elephant-in-the-village_bo1cba72e_thumbnail-1080_01.png
+	deleted:    runs/classify/elephant_posture/args.yaml
+	deleted:    runs/classify/elephant_posture/confusion_matrix.png
+	deleted:    runs/classify/elephant_posture/confusion_matrix_normalized.png
+	deleted:    runs/classify/elephant_posture/results.csv
+	deleted:    runs/classify/elephant_posture/results.png
+	deleted:    runs/classify/elephant_posture/train_batch0.jpg
+	deleted:    runs/classify/elephant_posture/train_batch1.jpg
+	deleted:    runs/classify/elephant_posture/train_batch2.jpg
+	deleted:    runs/classify/elephant_posture/val_batch0_labels.jpg
+	deleted:    runs/classify/elephant_posture/val_batch0_pred.jpg
+	deleted:    runs/classify/elephant_posture/val_batch1_labels.jpg
+	deleted:    runs/classify/elephant_posture/val_batch1_pred.jpg
+	deleted:    runs/classify/elephant_posture/weights/best.pt
+	deleted:    runs/classify/elephant_posture/weights/last.pt
+	deleted:    runs/classify/elephant_posture2/args.yaml
+	deleted:    runs/classify/elephant_posture3/args.yaml
+	deleted:    runs/classify/elephant_posture4/args.yaml
+	deleted:    src/api/app.py
+	deleted:    src/app_streamlit.py
+	deleted:    src/core/__pycache__/alert_system.cpython-310.pyc
+	deleted:    src/core/__pycache__/alert_system.cpython-313.pyc
+	deleted:    src/core/__pycache__/risk_engine.cpython-310.pyc
+	deleted:    src/core/__pycache__/risk_engine.cpython-313.pyc
+	deleted:    src/core/__pycache__/tracker.cpython-310.pyc
+	deleted:    src/core/__pycache__/tracker.cpython-313.pyc
+	deleted:    src/core/__pycache__/yolo_inference.cpython-310.pyc
+	deleted:    src/core/__pycache__/yolo_inference.cpython-313.pyc
+	deleted:    src/core/alert_system.py
+	deleted:    src/core/risk_engine.py
+	deleted:    src/core/tracker.py
+	deleted:    src/core/yolo_inference.py
+	deleted:    src/main.py
+	deleted:    src/models/__pycache__/lstm_model.cpython-310.pyc
+	deleted:    src/models/__pycache__/lstm_model.cpython-313.pyc
+	deleted:    src/models/lstm/behaviour_lstm.pth
+	deleted:    src/models/lstm_model.py
+	deleted:    src/training/__pycache__/behaviour_dataset.cpython-310.pyc
+	deleted:    src/training/__pycache__/train_behaviour.cpython-310.pyc
+	deleted:    src/training/behaviour_dataset.py
+	deleted:    src/training/check_images.py
+	deleted:    src/training/clean_data.py
+	deleted:    src/training/generate_data.py
+	deleted:    src/training/prepare_posture_data.py
+	deleted:    src/training/process_videos.py
+	deleted:    src/training/train_behaviour.py
+	deleted:    src/training/train_posture.py
+	deleted:    src/training/train_yolo.py
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	status.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")

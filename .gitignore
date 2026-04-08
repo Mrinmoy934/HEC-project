@@ -1,0 +1,8 @@
+.env
+__pycache__/
+*.pyc
+venv/
+.venv/
+.DS_Store
+elephant_project/elephant_dataset/
+elephant_project/runs/

@@ -1,0 +1,5 @@
+c:\elephant posture and behaviour\elephant_project\elephant_dataset\posture_split\train\charging\A-headshake-is-a-very-effective-intimidation-tactic.-©-Sally-Lucas.jpg
+c:\elephant posture and behaviour\elephant_project\elephant_dataset\posture_split\train\charging\An-elephants-trunk-communicates-a-vast-amount-of-information-©-Karen-Blackwood.jpg
+c:\elephant posture and behaviour\elephant_project\elephant_dataset\posture_split\train\ear flapping\A-headshake-is-a-very-effective-intimidation-tactic.-©-Sally-Lucas.jpg
+c:\elephant posture and behaviour\elephant_project\elephant_dataset\posture_split\train\trunk down\An-elephants-trunk-communicates-a-vast-amount-of-information-©-Karen-Blackwood.jpg
+c:\elephant posture and behaviour\elephant_project\elephant_dataset\posture_split\val\tail swing\A-headshake-is-a-very-effective-intimidation-tactic.-©-Sally-Lucas.jpg

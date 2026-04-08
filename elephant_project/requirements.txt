@@ -1,0 +1,11 @@
+ultralytics
+torch
+opencv-python
+fastapi
+uvicorn
+pandas
+streamlit
+deep-sort-realtime
+Pillow
+pydantic
+setuptools<70
